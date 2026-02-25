@@ -1,0 +1,17 @@
+RewriteEngine On
+
+# Eski sayfa URL'lerini ana sayfadaki ilgili bolume yonlendir
+RewriteRule ^hakkimizda/?$ /#hakkimizda [R=301,L,NE]
+RewriteRule ^urunlerimiz/?$ /#urunlerimiz [R=301,L,NE]
+RewriteRule ^iletisim/?$ /#iletisim [R=301,L,NE]
+
+# Eski urun kategorileri -> yeni urun sayfalarina yonlendir
+RewriteRule ^avokado/?$ /urunler/avokado.html [R=301,L]
+RewriteRule ^enginar/?$ /urunler/enginar.html [R=301,L]
+RewriteRule ^ege-otlari/?$ /urunler/ege-otlari.html [R=301,L]
+RewriteRule ^deniz-borulcesi-ve-kaya-korugu/?$ /urunler/ege-otlari.html [R=301,L]
+RewriteRule ^hazir-kullanim-urunleri/?$ /urunler/hazir-kullanim.html [R=301,L]
+RewriteRule ^dogal-butik-tursu-cesitleri/?$ /urunler/tursu.html [R=301,L]
+RewriteRule ^tursu/?$ /urunler/tursu.html [R=301,L]
+RewriteRule ^izgara-enginar/?$ /urunler/enginar.html [R=301,L]
+RewriteRule ^konserveler-ve-ithal-urunler/?$ /urunler/enginar.html [R=301,L]
