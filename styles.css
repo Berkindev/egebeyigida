@@ -307,30 +307,20 @@ ul { list-style: none; }
     overflow: hidden;
     box-shadow: var(--shadow-sm);
     aspect-ratio: 1;
-    transition: transform 0.4s ease, box-shadow 0.4s ease;
-}
-.hero__img:hover {
-    transform: scale(1.03);
-    box-shadow: var(--shadow-md);
-    z-index: 1;
+    display: block;
 }
 .hero__img img {
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
-/* Staggered layout for visual interest */
-.hero__img:nth-child(2),
-.hero__img:nth-child(5) { transform: translateY(12px); }
-.hero__img:nth-child(2):hover,
-.hero__img:nth-child(5):hover { transform: translateY(12px) scale(1.03); }
 
 /* --- SECTIONS --- */
 .section { padding: 72px 0; }
 .section--alt { background: var(--color-bg-alt); }
 .section--white { background: var(--color-white); }
 .section--dark {
-    background: linear-gradient(135deg, #2B2116 0%, #3A3028 100%);
+    background: linear-gradient(135deg, #3A4F3E 0%, #2D3E30 100%);
     color: #fff;
 }
 
@@ -477,40 +467,46 @@ ul { list-style: none; }
     gap: 20px;
 }
 .category-card {
-    position: relative;
-    border-radius: var(--radius-lg);
+    border-radius: var(--radius-md);
     overflow: hidden;
-    aspect-ratio: 1;
+    background: var(--color-card);
+    border: 1px solid var(--color-border);
     cursor: pointer;
     transition: all var(--transition);
+    text-decoration: none;
+    color: inherit;
+    display: block;
 }
-.category-card:hover { transform: translateY(-6px); box-shadow: var(--shadow-lg); }
-.category-card img {
+.category-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-md);
+    border-color: rgba(107, 140, 115, 0.2);
+    color: inherit;
+}
+.category-card__image {
+    aspect-ratio: 1;
+    overflow: hidden;
+}
+.category-card__image img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     transition: transform 0.5s ease;
 }
-.category-card:hover img { transform: scale(1.08); }
-.category-card__overlay {
-    position: absolute;
-    inset: 0;
-    background: linear-gradient(to top, rgba(43, 33, 22, 0.8) 0%, rgba(43, 33, 22, 0.05) 55%);
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    padding: 24px;
+.category-card:hover .category-card__image img { transform: scale(1.05); }
+.category-card__info {
+    padding: 16px;
 }
 .category-card__title {
     font-family: var(--font-heading);
-    font-size: 1.25rem;
+    font-size: 1.063rem;
     font-weight: 600;
-    color: #fff;
-    margin-bottom: 4px;
+    color: var(--color-text);
+    margin-bottom: 2px;
 }
 .category-card__count {
     font-size: 0.813rem;
-    color: rgba(255,255,255,0.7);
+    color: var(--color-text-light);
 }
 
 /* --- ÜRÜNLER GRID --- */
@@ -949,17 +945,15 @@ ul { list-style: none; }
    RESPONSIVE
    ========================================== */
 @media (max-width: 992px) {
-    .hero__grid { grid-template-columns: 1fr; gap: 24px; text-align: center; }
+    .hero__grid { grid-template-columns: 1fr; gap: 20px; text-align: center; }
     .hero__desc { margin-left: auto; margin-right: auto; }
     .hero__tags { justify-content: center; }
     .hero__cta-group { justify-content: center; }
     .hero__visual {
         grid-template-columns: repeat(3, 1fr);
         gap: 8px;
-        padding: 0;
+        order: -1;
     }
-    .hero__img:nth-child(2),
-    .hero__img:nth-child(5) { transform: translateY(8px); }
 
     .about { grid-template-columns: 1fr; gap: 32px; }
     .about__image { order: -1; }
@@ -1002,10 +996,12 @@ ul { list-style: none; }
     .section__header { margin-bottom: 32px; }
 
     .hero { min-height: auto; }
-    .hero__grid { padding: 20px 0; min-height: auto; }
-    .hero__visual { grid-template-columns: repeat(3, 1fr); gap: 6px; }
-    .hero__title { font-size: 1.75rem; }
-    .hero__desc { font-size: 1rem; }
+    .hero__grid { padding: 16px 0 20px; min-height: auto; gap: 16px; }
+    .hero__visual { grid-template-columns: repeat(3, 1fr); gap: 6px; order: -1; }
+    .hero__badge { margin-bottom: 16px; }
+    .hero__title { font-size: 1.75rem; margin-bottom: 16px; }
+    .hero__desc { font-size: 0.938rem; margin-bottom: 12px; }
+    .hero__tags { margin-bottom: 20px; }
 
     .categories { grid-template-columns: repeat(2, 1fr); gap: 12px; }
     .services { grid-template-columns: 1fr; }
@@ -1043,7 +1039,4 @@ ul { list-style: none; }
 
 @media (max-width: 400px) {
     .about__highlights { grid-template-columns: 1fr; }
-    .hero__visual { grid-template-columns: repeat(2, 1fr); }
-    .hero__img:nth-child(5),
-    .hero__img:nth-child(6) { display: none; }
 }
