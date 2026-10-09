@@ -1,0 +1,11 @@
+{
+  "name": "egebeyigida",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/build.mjs && npx -y wrangler@4 pages dev dist --port 8788",
+    "deploy": "node scripts/build.mjs && npx -y wrangler@4 pages deploy dist --project-name egebeyigida --branch main --commit-dirty=true && node scripts/indexnow.mjs",
+    "indexnow": "node scripts/indexnow.mjs"
+  }
+}

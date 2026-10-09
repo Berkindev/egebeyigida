@@ -1,0 +1,1 @@
+{"version": 1, "include": ["/*"], "exclude": ["/img/*", "/fonts/*", "/assets/*", "/wp-content/*", "/favicon.svg", "/favicon-32.png", "/apple-touch-icon.png", "/icon-512.png", "/sitemap.xml", "/robots.txt"]}

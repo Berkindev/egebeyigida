@@ -1,2 +1,12 @@
 .DS_Store
 .claude/
+
+# Gizli: referans listesi asla yayınlanmaz
+pics/Referanslarımız.pdf
+dist/
+.cache/
+.wrangler/
+node_modules/
+
+# Yerel kalacaklar (public repo)
+arsiv/dns-yedek-*.md

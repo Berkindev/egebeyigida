@@ -1,0 +1,216 @@
+// Sayfa içerikleri: SSS, şehir sayfaları, rehberler.
+// Yazım dili: sade ve doğal. SSS cevapları soruyu ilk cümlede doğrudan cevaplar.
+
+export const faqs = [
+  { q: 'İstanbul ve İzmir’de toptan avokado nereden temin edilir?',
+    a: 'Ege Beyi Gıda olarak İstanbul Kâğıthane depomuzdan ve İzmir dağıtım ağımızdan, otel ve restoranlara soğuk zincirle toptan avokado teslimatı yapıyoruz. Hass, Fuerte ve yerli çeşitleri RTE veya Firm olgunlukta, Small, Medium ve Large kalibre seçenekleriyle tedarik ediyoruz.' },
+  { q: 'Restoranlar için firesiz toptan enginar kalbi nasıl sipariş edilir?',
+    a: 'Ayıklanmış, porsiyonluk saplı enginar kalbi, çanak ve ızgara enginar çeşitlerimizi doğrudan WhatsApp sipariş hattımız (0552 500 15 11) üzerinden işletmenizin gramaj kriterlerine göre sipariş edebilirsiniz.' },
+  { q: 'Hass ve Fuerte avokado mutfakta hangi alanlarda tercih edilir?',
+    a: 'Hass avokado yüksek yağ oranı, yoğun kıvamı ve soyulma kolaylığı sayesinde guacamole, tartine ve ezmelerde standart sağlar. Fuerte ve yerli çeşitler ise dilimlenebilir dokusuyla salata ve tabak süslemelerinde şeflerin öncelikli tercihidir.' },
+  { q: 'Minimum sipariş tutarı ve teslimat şartları nelerdir?',
+    a: 'İstanbul ve İzmir içi düzenli rota sevkiyatlarımızda işletmelere özel minimum sipariş baremleri sunuyoruz. Güncel teslimat şartları ve rota bilgisi için WhatsApp hattımızdan bilgi alabilirsiniz.' },
+  { q: 'Avokadoda RTE ve Firm ne anlama gelir?',
+    a: 'RTE (Ready-to-Eat), aynı gün servise hazır olgunluktaki avokadodur. Firm ise stokta dinlendirmelik sert avokadodur ve oda sıcaklığında 2–4 gün içinde olgunlaşır. Servis takviminize göre ikisini birlikte planlamak fireyi en aza indirir.' },
+  { q: 'Hangi enginar markalarını tedarik ediyorsunuz?',
+    a: 'İtalyan Ristoris (2900 g, 28–30 adet saplı enginar), Alessia (720 g enginar kalbi) ve Viru (1800 ml saplı enginar) markalarını tedarik ediyoruz. Bunlara ek olarak yerli işleme ızgara enginar, çanak enginar ve baby enginar seçeneklerimiz mevcuttur.' },
+  { q: 'Sipariş nasıl verilir?',
+    a: 'Siparişlerinizi WhatsApp hattımızdan (0552 500 15 11) iletebilirsiniz. İhtiyacınız olan ürünleri, kalibre ve olgunluk talebinizi ve teslimat adresinizi yazmanız yeterlidir; güncel fiyat ve sevkiyat planı size iletilir.' },
+  { q: 'Teslimat günleriniz nedir?',
+    a: 'İstanbul ve İzmir geneline düzenli soğuk zincir teslimat yapıyoruz. Rota ve teslimat detayları için WhatsApp hattımızdan bilgi alabilirsiniz.' },
+  { q: 'Fiyat listesi ve katalog alabilir miyim?',
+    a: 'Evet. Taze ürün fiyatları borsa/hal koşullarına ve kura göre değiştiği için fiyatları sitede yayınlamıyoruz. Güncel fiyat listesi ve katalog WhatsApp hattımızdan iletilir.' },
+  { q: 'Deniz börülcesini temizlenmiş olarak tedarik ediyor musunuz?',
+    a: 'Evet. Deniz börülcesini taze ya da haşlanmış ve lifli orta damarı ayıklanmış, doğrudan servise hazır olarak tedarik ediyoruz. Deniz börülcesi turşusu da mevcuttur.' },
+  { q: 'Kimlere satış yapıyorsunuz?',
+    a: 'Otel, restoran, kafe, pastane, catering firmaları ve barlar başta olmak üzere profesyonel mutfaklara toptan satış yapıyoruz. Bireysel talepler için WhatsApp hattımızdan bilgi alabilirsiniz.' },
+  { q: 'Deneme siparişi verebilir miyim?',
+    a: 'Evet. İlk kez çalışacağımız işletmeler için deneme siparişi seçeneğini WhatsApp hattımız üzerinden planlayabiliriz.' },
+];
+
+export const cities = [
+  {
+    slug: 'istanbul',
+    city: 'İstanbul',
+    title: 'İstanbul Toptan Avokado ve Enginar Tedariki',
+    description: "Kâğıthane merkez depomuzdan İstanbul Avrupa ve Anadolu Yakası'ndaki otel, restoran ve catering işletmelerine soğuk zincir toptan avokado ve enginar teslimatı.",
+    h1: 'İstanbul Toptan Avokado ve Enginar Tedariki',
+    lead: 'Kâğıthane’deki merkez depomuzdan Avrupa ve Anadolu Yakası’ndaki tüm otel, restoran ve catering işletmelerine periyodik soğuk zincir teslimat yapıyoruz.',
+    body: [
+      'Avokado siparişlerini servis takviminize göre RTE veya Firm olgunlukta, Small, Medium ve Large kalibre seçenekleriyle hazırlıyoruz. Ayıklanmış saplı enginar kalbi, çanak, baby ve ızgara enginar çeşitlerimiz de aynı sevkiyatla mutfağınıza ulaşır.',
+      'Egzotik meyveler, Ege otları, deniz börülcesi, pratik meze çözümleri ve gurme turşuları da siparişinize ekleyebilirsiniz. Rota ve teslimat şartları için WhatsApp hattımızdan bilgi alabilirsiniz.',
+    ],
+  },
+  {
+    slug: 'izmir',
+    city: 'İzmir',
+    title: 'İzmir Toptan Avokado ve Enginar Tedariki',
+    description: "Çeşme, Alaçatı, Urla ve İzmir merkez hattındaki otel, restoran ve kafelere düzenli toptan avokado ve enginar sevkiyatı. Soğuk zincir teslimat.",
+    h1: 'İzmir Toptan Avokado ve Enginar Tedariki',
+    lead: 'İzmir dağıtım ağımızla Çeşme, Alaçatı, Urla ve İzmir merkez hattındaki işletmelere düzenli toptan sevkiyat yapıyoruz.',
+    body: [
+      'Hass, Fuerte ve yerli avokado çeşitleri ile ayıklanmış saplı enginar kalbi, çanak, baby ve ızgara enginar; yanında egzotik meyveler, Ege otları, deniz börülcesi ve meze ürünleri. Tüm ürünler soğuk zincirle, tek sevkiyatta işletmenize teslim edilir.',
+      'Sezon dönemi yoğunluğu olan otel ve restoranlar için düzenli sevkiyat planı oluşturabiliriz. Rota ve teslimat şartları için WhatsApp hattımızdan bilgi alabilirsiniz.',
+    ],
+  },
+];
+
+// Rehberler: restoran ve otel mutfakları için pratik bilgiler.
+export const guides = [
+  {
+    slug: 'hass-ve-fuerte-avokado-farki',
+    img: 'avokado-guacamole.jpg',
+    imgAlt: 'Beyaz kâsede guacamole, yanında lime ve cips',
+    title: 'Hass ve Fuerte Avokado Arasındaki Fark',
+    description: 'Hass ve Fuerte avokado arasındaki farklar: kabuk, doku, olgunluğun nasıl anlaşıldığı ve hangisinin hangi yemekte kullanıldığı.',
+    h1: 'Hass ve Fuerte avokado arasındaki fark',
+    lead: 'Türkiye’de en çok tedarik edilen iki avokado çeşidi Hass ve Fuerte’dir. Doku, yağ oranı ve olgunluk takibi bakımından farklı oldukları için mutfakta farklı uygulamalarda tercih edilirler.',
+    sections: [
+      ['Özet', ['Ezme, guacamole ve sos uygulamalarında Hass; dilimli sunum ve salatalarda Fuerte tercih edilir. Hass yüksek yağ oranı ve kremsi dokusuyla standart sağlar; Fuerte daha hafif ve suludur, dilimlendiğinde formunu korur.']],
+      ['Görünüş ve olgunluk', [
+        'Hass avokadonun kabuğu kalın ve pürüzlüdür. Olgunlaştıkça yeşilden koyu mora döner, bu yüzden olgunluğu rengine bakarak anlaşılır.',
+        'Fuerte avokadonun kabuğu ince, pürüzsüz ve parlak yeşildir. Olgunlaştığında da yeşil kalır. Olgun olup olmadığını kabuğuna hafifçe bastırarak anlayabilirsiniz.',
+      ]],
+      ['Doku ve lezzet', [
+        'Hass avokadonun yağ oranı yüksektir, lezzeti yoğundur. Kesildikten sonra daha geç kararır.',
+        'Fuerte avokado daha hafif ve suludur, lezzeti daha yumuşaktır.',
+      ]],
+      ['Hangi yemekte hangisi?', [
+        'Guacamole, avokado ezmesi, sos ve smoothie için Hass kullanılır.',
+        'Avokado toastta ezilecekse Hass, dilimlenecekse Fuerte tercih edilir.',
+        'Salata, sushi ve dilimli sunumlarda Fuerte ya da biraz sert bir Hass kullanılır.',
+        'Kahvaltı büfelerinde, daha geç karardığı için Hass daha uygundur.',
+      ]],
+      ['Yerli mi, ithal mi?', ['İki çeşit de Türkiye’de Akdeniz kıyısında yetişir ve sezonunda yerli olarak bulunur. Sezon dışında ithal Hass tedarik ediyoruz. Yerli ve ithal avokadonun güncel fiyatını WhatsApp’tan sorabilirsiniz.']],
+    ],
+    related: ['hass-avokado', 'fuerte-avokado', 'yerli-olgun-avokado', 'avokado'],
+  },
+  {
+    slug: 'yerli-ve-ithal-avokado',
+    img: 'avokado-kasa.jpg',
+    imgAlt: 'Pazar tezgâhında hasır sepetlerde avokadolar',
+    title: 'Yerli ve İthal Avokado: Sezon ve Seçim',
+    description: "Türkiye'de avokado nerede yetişir, yerli avokado sezonu ne zaman? İthal avokado hangi aylarda tercih edilir? Restoranlar için kısa bir rehber.",
+    h1: 'Yerli ve ithal avokado',
+    lead: 'Avokadoyu menüde 365 gün kesintisiz tutmak için yerli sezon ile ithal tedariki birlikte planlamak gerekir.',
+    sections: [
+      ['Türkiye’de avokado nerede yetişir?', ['Türkiye’de avokado çoğunlukla Akdeniz kıyısında, Antalya’nın Alanya ve Gazipaşa ilçelerinde ve Mersin çevresinde yetişir. Başlıca çeşitler Hass, Fuerte, Bacon, Ettinger, Pinkerton ve Zutano’dur.']],
+      ['Yerli sezon ne zaman?', [
+        'Yerli avokado sezonu genellikle sonbaharda başlar ve ilkbahara kadar sürer.',
+        'Bacon ve Zutano sezonun başında, Fuerte ortasında, Hass ise daha çok ikinci yarısında çıkar.',
+        'Tarihler her yıl havaya göre biraz değişir. Güncel durumu WhatsApp’tan sorabilirsiniz.',
+      ]],
+      ['İthal avokado ne zaman tercih edilir?', [
+        'Yerli sezonun bittiği yaz aylarında.',
+        'Her gün aynı çeşit ve aynı boyda avokado gerekiyorsa, örneğin zincir kafe ve otellerde.',
+        'Yerli Hass bulunmadığında guacamole gibi Hass gerektiren tariflerde.',
+      ]],
+      ['Tedarik planı önerisi', ['Sonbahardan ilkbahara kadar yerli avokado ile fiyat avantajı, yaz aylarında birinci kalite ithal Hass ile süreklilik. Siparişte servis takviminizi belirtin; ürünleri RTE ve Firm olarak sınıflandırarak sevk edelim.']],
+    ],
+    related: ['yerli-olgun-avokado', 'hass-avokado', 'bacon-avokado', 'avokado'],
+  },
+  {
+    slug: 'enginar-kalbi-cesitleri',
+    img: 'enginar-kalbi-kavanoz.jpg',
+    imgAlt: 'Cam kavanozda yağda marine enginar kalpleri',
+    title: 'Enginar Kalbi Çeşitleri: Saplı, Çanak, Baby ve Izgara',
+    description: 'Saplı Roma tipi enginar kalbi, çanak enginar, baby enginar ve ızgara enginar arasındaki farklar ve hangisinin hangi yemekte kullanıldığı.',
+    h1: 'Enginar kalbi çeşitleri',
+    lead: 'Profesyonel mutfaklarda enginar dört ana formda kullanılır. Doğru seçim; menüdeki uygulamaya, hazırlık süresine ve porsiyon standardına bağlıdır.',
+    sections: [
+      ['Saplı Roma tipi enginar kalbi', ['Sapı uzun bırakılarak temizlenmiş ve yağda marine edilmiş bütün enginardır. Tabakta dik durduğu için sunumda çok güzel görünür. Izgarada hafifçe kızartılabilir. Daha çok İtalyan mutfağında ve antipastide kullanılır. Ristoris 2900 g (28–30 adet) ve Viru 1800 ml seçeneklerimiz var.']],
+      ['Izgara enginar', ['Önceden ızgarada pişirilmiş ve marine edilmiş enginardır. Isıtıp servis edilir. Meze, garnitür ve sandviç için en pratik seçenektir. Yerli ve ithal çeşitleri var.']],
+      ['Çanak enginar', ['Yaprakları ve tüyü temizlenmiş enginar tabanıdır. Zeytinyağlı enginar, iç baklalı enginar ve fırın yemekleri için kullanılır. Temizlenmiş geldiği için doğrudan pişirilir.']],
+      ['Baby enginar', ['Küçükken toplanan, içinde tüy oluşmamış ve tamamı yenebilen enginardır. İkiye kesilip tavada ya da fırında pişirilir, makarna ve salatalarda kullanılır.']],
+      ['Konserve enginar kalbi', ['Salata, pizza ve makarna için uygun fiyatlı bir seçenektir. Alessia 720 g (12–16 adet) satıyoruz.']],
+      ['Nasıl seçilir?', [
+        'Enginar tabakta görünecekse saplı enginar kalbi ya da baby enginar, yemeğin içinde kullanılacaksa konserve kalp uygundur.',
+        'Mutfakta hazırlık için vakit yoksa ızgara enginar en pratik olanıdır.',
+        'Zeytinyağlı ve dolma için çanak enginar kullanılır.',
+      ]],
+    ],
+    related: ['enginar-kalbi', 'izgara-enginar', 'canak-enginar', 'baby-enginar', 'enginar'],
+  },
+  {
+    slug: 'enginar-nasil-temizlenir',
+    img: 'enginar-taze.jpg',
+    imgAlt: 'Ahşap kasada taze mor enginarlar',
+    title: 'Enginar Nasıl Temizlenir? Adım Adım',
+    description: 'Taze enginar nasıl temizlenir, çanak nasıl çıkarılır ve kararması nasıl önlenir? Adım adım anlatım.',
+    h1: 'Enginar nasıl temizlenir?',
+    lead: 'Taze enginar temizliği, mutfakta en çok işçilik ve fire üreten hazırlıklardan biridir. Aşağıda adım adım uygulamayı ve hazır enginarın sağladığı avantajları bulabilirsiniz.',
+    sections: [
+      ['Hazırlık', ['Geniş bir kaba soğuk su koyun, içine bol limon suyu ve bir kaşık un ekleyin. Enginar havayla temas edince çabuk kararır, bu yüzden temizlediğiniz her enginarı hemen bu suya bırakın. Elleriniz lekelenmesin diye eldiven kullanabilirsiniz.']],
+      ['Adım adım', [
+        'Sapı, tabandan 3–4 cm kalacak şekilde kesin. Roma tipi için sapı uzun bırakın ve dış kabuğunu soyun.',
+        'Sert dış yaprakları, açık renkli yapraklara gelene kadar elle koparın.',
+        'Üst kısmı bıçakla düz bir şekilde kesin.',
+        'Tabanın etrafındaki koyu yeşil kısımları bıçakla soyun.',
+        'Ortadaki tüyleri kaşıkla kazıyarak çıkarın. Geriye çanak kalır.',
+        'Çanağı hemen limonlu suya koyun.',
+      ]],
+      ['Hazır enginarın faydası', ['Enginar temizlemek uzun sürer ve fire verir. Çanak enginar, saplı enginar kalbi ve ızgara enginar temizlenmiş olarak geldiği için bu işe gerek kalmaz. Taze enginarın sezonu ilkbaharda kısa sürer; hazır enginar ise yıl boyunca bulunur.']],
+    ],
+    related: ['canak-enginar', 'enginar-kalbi', 'baby-enginar', 'enginar'],
+  },
+  {
+    slug: 'avokado-kalibre-ve-olgunluk-rehberi',
+    img: 'avokado-toast.jpg',
+    imgAlt: 'Ekmek üzerinde dilimlenmiş avokado ve roka',
+    title: 'Avokado Seçimi: Çeşit, Boy ve Olgunluk',
+    description: 'Restoranlar için avokado seçimi: hangi çeşit, hangi boy, yemeye hazır mı sert mi? Avokado nasıl olgunlaştırılır ve saklanır?',
+    h1: 'Restoranlar için avokado seçimi',
+    lead: 'Avokadoda fireyi azaltmanın yolu doğru çeşit, doğru kalibre ve servis gününe uygun olgunluk seçiminden geçer.',
+    sections: [
+      ['Hangi çeşit?', [
+        'Hass kremsi ve yağlıdır. Guacamole, avokado toast ve sos için en çok kullanılan çeşittir. Olgunlaştıkça kabuğu koyulaşır.',
+        'Fuerte daha hafif ve suludur, dilimlendiğinde dağılmaz. Salata ve dilimli sunum için uygundur.',
+        'Pinkerton’ın çekirdeği küçük, eti boldur. Çok miktarda hazırlık yapan mutfaklar için ekonomiktir.',
+        'Bacon, Ettinger ve Zutano yerli sezonun hafif ve sulu çeşitleridir, salata ve smoothie için kullanılır.',
+      ]],
+      ['Kalibre seçimi', [
+        'Small (150–200 g): Tek kişilik kahvaltı tabakları ve yarım avokado sunumları.',
+        'Medium (200–250 g): Restoran ana yemekleri ve guacamole hazırlığı için en dengeli seçim.',
+        'Large (250 g+): Paylaşımlı tabaklar ve catering.',
+      ]],
+      ['RTE mi, Firm mi?', [
+        'RTE (Ready-to-Eat): Aynı gün ya da ertesi gün servis edilecek ürünler için. Hafifçe bastırıldığında esner.',
+        'Firm (sert): Oda sıcaklığında 2–4 gün içinde olgunlaşır; haftalık stok planlayan mutfaklar için.',
+        'Haftalık ihtiyacın bir kısmını RTE, kalanını Firm olarak planlamak, hafta boyunca her gün olgun ürün bulunmasını sağlar.',
+      ]],
+      ['Saklama', [
+        'Sert avokado oda sıcaklığında olgunlaşır. Buzdolabında olgunlaşma durur.',
+        'Olgunlaşan avokadoyu buzdolabına koyarak birkaç gün daha saklayabilirsiniz.',
+        'Daha hızlı olgunlaşması için muz ya da elmayla aynı kâğıt torbaya koyabilirsiniz.',
+        'Kesilmiş avokadonun kararmaması için üzerine limon sürüp streç filmle kapatın, çekirdeğini çıkarmayın.',
+      ]],
+    ],
+    related: ['avokado', 'hass-avokado', 'fuerte-avokado', 'pinkerton-avokado'],
+  },
+  {
+    slug: 'deniz-borulcesi-nedir-nasil-temizlenir',
+    img: 'deniz-borulcesi-meze.jpg',
+    imgAlt: 'Tabakta zeytinyağlı deniz börülcesi mezesi',
+    title: 'Deniz Börülcesi Nedir, Nasıl Temizlenir?',
+    description: 'Deniz börülcesi nedir, nasıl haşlanır ve temizlenir, nasıl servis edilir? Kısa ve pratik anlatım.',
+    h1: 'Deniz börülcesi nedir, nasıl temizlenir?',
+    lead: 'Deniz börülcesi balık restoranları ve meyhanelerin temel meze eşlikçisidir; ancak ayıklanması ciddi işçilik gerektirir.',
+    sections: [
+      ['Deniz börülcesi nedir?', [
+        'Deniz börülcesi (Salicornia) kıyıdaki tuzlu topraklarda yetişen, etli ve boğumlu bir bitkidir. İngilizcede samphire ya da sea asparagus denir. Kendisi tuzlu olduğu için pişirirken tuz eklenmez.',
+      ]],
+      ['Nasıl temizlenir?', [
+        'Kökleri ve sert alt kısımları kesilir, bol suda yıkanır.',
+        'Kaynar suda 4–6 dakika haşlanır, sonra soğuk suya alınır.',
+        'Her dal iki parmak arasında aşağı doğru çekilerek sert orta damar ayrılır. En çok zaman alan kısım budur.',
+        'Bu işle uğraşmak istemiyorsanız temizlenmiş deniz börülcesi kullanabilirsiniz.',
+      ]],
+      ['Nasıl servis edilir?', [
+        'Meze olarak zeytinyağı, ezilmiş sarımsak ve limonla soğuk servis edilir.',
+        'Izgara levrek, çipura ya da ahtapotun yanında garnitür olarak kullanılır.',
+        'Domates, kırmızı soğan ve kaya koruğu turşusuyla salata yapılabilir.',
+      ]],
+    ],
+    related: ['deniz-borulcesi', 'deniz-borulcesi-tursusu', 'kaya-korugu', 'deniz-borulcesi-ve-kaya-korugu'],
+  },
+];

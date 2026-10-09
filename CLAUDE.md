@@ -1,79 +1,78 @@
 # EgebeyiGıda - Proje Rehberi
 
 ## Proje Özeti
-B2B toptan gıda tedarikçisi web sitesi. İstanbul ve İzmir'de otel, restoran ve profesyonel mutfaklara taze ürün tedarik eden **Ege Beyi Gıda ve Tarım Ürünleri**'nin kurumsal sitesi.
+B2B toptan gıda tedarikçisi sitesi. İstanbul ve İzmir'de otel, restoran ve profesyonel mutfaklara ürün tedarik eden **Ege Beyi Gıda ve Tarım Ürünleri**. Amaç: SEO + GEO (yapay zekâ asistanlarında görünürlük) + WhatsApp'a lead.
 
 ## Teknoloji
-- **Saf HTML5 + CSS3 + Vanilla JS** (framework yok, build tool yok)
-- Google Fonts (Inter, Playfair Display)
-- Inline SVG ikonlar
-- Apache sunucu (.htaccess ile yönlendirmeler)
+- Bağımlılıksız Node (v22) statik site üreticisi: `scripts/build.mjs` → `dist/`
+- Görseller: macOS `sips` + `cwebp` (Homebrew). Build bu yüzden macOS'ta yapılır, Cloudflare'de değil.
+- Hosting: **Cloudflare Pages** (direct upload, `npm run deploy`). Pages Functions: `functions/`
+- Fontlar self-host (Fraunces + Instrument Sans), harici istek yok.
+
+## Komutlar
+- `npm run build` — dist/ üretir
+- `npm run dev` — build + wrangler ile yerel önizleme (functions dahil) http://127.0.0.1:8788
+- `npm run deploy` — build + Cloudflare Pages'e yükleme + IndexNow bildirimi
+- `npm run indexnow` — sitemap'teki URL'leri IndexNow'a bildirir (anahtar: `.indexnow-key`, dosyası `src/public/<key>.txt`)
+
+## Yayın Durumu
+- 2026-10-09'dan beri egebeyigida.com **Cloudflare Pages**'te (proje: `egebeyigida`). DNS: `@` ve `www` → CNAME `egebeyigida.pages.dev` (Proxied). Eski DNS yedeği yerelde `arsiv/dns-yedek-2026-10-09.md` (gitignore'da, public repoya girmez).
+- www → apex ve *.pages.dev noindex `functions/_middleware.js` içinde.
+- WordPress hâlâ Hostinger'da duruyor (yedek); mail Hostinger'da. Hosting ödenmiş, iptal gündemde değil.
 
 ## Dosya Yapısı
 ```
-├── index.html              # Ana sayfa (tüm bölümler tek sayfada)
-├── styles.css              # Paylaşılan stil dosyası (CSS değişkenleri ile)
-├── script.js               # Vanilla JS (hamburger menü, scroll animasyonları)
-├── icerik.md               # İÇERİK KAYNAĞI - tüm ürün bilgileri burada
-├── .htaccess               # Eski URL yönlendirmeleri (301)
-├── robots.txt              # SEO
-├── sitemap.xml             # 7 URL (ana sayfa + 6 ürün sayfası)
-├── images/                 # 60+ görsel
-│   ├── Kapak Fotoğrafları/ # Kategori kapak görselleri (PNG)
-│   ├── product-*.jpeg      # Ürün fotoğrafları
-│   └── *-branded.jpeg      # Markalı versiyonlar
-└── urunler/                # Ürün detay sayfaları
-    ├── avokado.html
-    ├── enginar.html
-    ├── ege-otlari.html
-    ├── egzotik-meyveler.html
-    ├── hazir-kullanim.html
-    └── tursu.html
+src/data/site.mjs       # Firma bilgisi (NAP), saatler, adresler, waLink()  ← GBP ile birebir aynı olmalı
+src/data/catalog.mjs    # 7 kategori (tier 1/2/3) + 65 ürün, compare/highlights (TEK İÇERİK KAYNAĞI)
+src/data/content.mjs    # SSS, şehir sayfaları (istanbul/izmir), 6 rehber
+src/images/stock|marka/ # Lisanslı stok görseller + credits-*.json, kırpılmış marka kavanozları
+src/assets/css|js       # site.css, site.js (menü, reveal, WebMCP)
+src/public/             # Olduğu gibi kopyalanır: fonts, favicon, manifest, _routes.json
+scripts/build.mjs       # Sayfalar, schema, md sürümleri, sitemap, robots, llms.txt, .well-known, _headers, _redirects
+scripts/lib/            # html.mjs (layout/bileşenler), images.mjs (görsel hattı)
+functions/_middleware.js# Markdown negotiation (Accept: text/markdown), içerik tipleri, Link başlıkları
+functions/mcp.js        # MCP sunucusu (/mcp): search_products, get_product, get_contact, create_order_link
+legacy/wp-content/      # Eski WordPress görselleri — AYNI yollarla yayınlanır (Google Görseller için)
+legacy/image-catalog.json # Tüm görsellerin konu/kalite/filigran kataloğu
+images/, pics/          # Kaynak görseller (build bunlardan webp üretir)
+arsiv/prototip-2026-02/ # Eski statik prototip (yayında değil)
 ```
 
+## Ürün Önceliği (müşterinin isteği)
+1. **Ana odak:** Avokado ve Enginar (`tier: 1`) — ana sayfa odak blokları, karşılaştırma tabloları, rehberler, menüde ilk sırada.
+2. **İkinci odak:** Egzotik & tropikal meyveler (`tier: 2`).
+3. **Yan ürünler:** Ege otları, deniz börülcesi, hazır meze, turşu (`tier: 3`) — kompakt gösterilir, çok detaya girilmez (sezon takvimi vb. yok).
+
 ## Önemli Kurallar
+- **URL'ler kutsal:** Eski WP adresleri (`/avokado/`, `/izgara-enginar/`, `/ege-otlari/`, `/deniz-borulcesi-ve-kaya-korugu/`, `/dogal-butik-tursu-cesitleri/`, `/hazir-kullanim-urunleri/`, `/hakkimizda/`, `/urunlerimiz/`, `/iletisim/`) aynen korunur. Ürün slug'ı değiştirilecekse `_redirects`'e 301 eklenmeli.
+- **Referans listesi (pics/Referanslarımız.pdf) sitede hiçbir şekilde kullanılmaz** — ne logo, ne isim, ne sayı. Gizli; .gitignore'da.
+- Fiyat yayınlanmaz. Her CTA = WhatsApp hazır mesaj, `waLink()` otomatik "Merhaba, egebeyigida.com'dan ulaşıyorum." ile başlatır. Ref kodu YOK; mesaj sade ve genel ("X için fiyat ve katalog bilgisi").
+- Adres olarak SADECE İstanbul (Kâğıthane) gösterilir. İzmir yalnızca metinde "teslimat İstanbul ve İzmir geneli" olarak geçer — İzmir adresi/şube yok. Semt listesi yok; detay WhatsApp'tan.
+- Kuruluş yılı kullanılmaz.
+- Bilinmeyen bilgi uydurulmaz; `TODO(arkadaşa sor)` ile işaretlenir.
+- Görseller: yer tutucu YOK. Kaynak sırası: arkadaşın kendi fotoğrafları > `src/images/stock/` (Unsplash / Wikimedia; kaynaklar `credits-*.json`'da kayıt amaçlı tutulur, sitede atıf sayfası YOK, kullanıcı kararı) > `src/images/marka/` (Ristoris/Alessia/Viru kırpılmış kavanozlar). Filigranlı/üçüncü taraf (greenada, iStock, Köy Yakası, Urla Yeşil) asla.
+- Her ürün/kategori/rehber görselinin `alt` metni fotoğrafta gerçekte ne olduğunu tarif eder (`alt`, `photoAlt`, `imgAlt`).
+- Görsel dosya adları SEO için açıklayıcıdır (`toptan-hass-avokado-960.webp`); içerik hash'i `?v=` olarak URL'ye eklenir, `/img/*` immutable önbelleklidir.
+- Unsplash araması curl ile 401 verir; tarayıcıda unsplash.com sekmesinden `/napi/search/photos` ile yapılır, indirme `unsplash.com/photos/<id>/download`.
+- E-posta Hostinger'da: DNS'te MX/SPF kayıtlarına dokunma.
+- Yeni ürün: `catalog.mjs`'e ekle → `npm run build` → sayfa, schema, sitemap, llms.txt, API otomatik güncellenir.
 
-### İçerik Kaynağı
-- `icerik.md` tüm ürün bilgilerinin tek kaynağıdır (53 ürün, 6 kategori)
-- Yeni ürün/değişiklik önce icerik.md'de güncellenmeli, sonra HTML'e yansıtılmalı
+## Yazım Dili (kullanıcının onayladığı ton, 2026-10-09)
+- Profesyonel B2B / HoReCa dili: "mutfak operasyonu", "fire", "kalibre", "mise en place", "sevkiyat", "soğuk zincir", "porsiyon/gramaj standardı" gibi sektör terimleri serbest.
+- Maddeler "**Etiket:** açıklama" formatında (örn. "Kullanıma Göre Olgunluk Seçimi: ..."). Başlıklar Title Case, açıklayıcı ve anahtar kelimeli ("Profesyonel Mutfaklara Yıl Boyu Toptan Avokado").
+- Small/Medium/Large ve RTE/Firm terimleri kullanılır.
+- Referans metin: kullanıcının yazdığı ana sayfa kopyası (build.mjs ANA SAYFA bloğu ve catalog.mjs avokado/enginar/egzotik alanları). Yeni metinler bu tonla yazılır.
+- Kaçınılacaklar: kesik/fiilsiz slogan cümleleri ("Menü değişmez."), "2 ana ürün / 1 mesaj" gibi sayı oyunları, uzun tire (—). "Tedariği" değil "Tedariki" (TDK).
+- Teslimat ifadesi: "İstanbul ve İzmir geneline her gün soğuk zincir teslimat". İstanbul: Avrupa ve Anadolu Yakası. "Haftanın 6 günü" ifadesi KULLANILMAZ (Pazar servisi belirsiz). İzmir: Çeşme, Alaçatı, Urla ve merkez hattı (adres yok).
 
-### CSS Yapısı
-- **BEM-benzeri isimlendirme:** `.header__logo`, `.product-card__title`
-- **CSS değişkenleri:** Renkler, fontlar, gölgeler, spacing, geçişler
-- Ana renkler: `--color-primary` (#6B8C73 adaçayı yeşili), `--color-accent` (#D4935A amber)
-- Breakpoints: 768px (mobil), 992px (tablet)
-
-### HTML Yapısı
-- Semantik HTML5 (header, main, section, nav, footer)
-- Schema.org JSON-LD (LocalBusiness)
-- Kapsamlı meta etiketleri (OG, Twitter Card, geo-targeting)
-- Ürün sayfaları `../` ile ana dizine referans verir
-
-### JavaScript
-- Intersection Observer ile scroll animasyonları
-- Mobil hamburger menü
-- Harici kütüphane kullanılmıyor
-
-## SEO
-- Canonical URL: https://egebeyigida.com
-- Dil: tr_TR
-- Sitemap: haftalık güncelleme sıklığı
-- Yapılandırılmış veri: LocalBusiness schema
+## Tasarım
+- Renkler logodan: kahve `#43241A`, zeytin `#ABAD3A`, zemin krem `#FAF6EE`. WhatsApp yeşili `#157A43` sadece WA butonlarında.
+- BEM-benzeri sınıflar, CSS değişkenleri `src/assets/css/site.css` başında. Breakpoint'ler 760/860/980px.
 
 ## İş Bilgileri
-- **Adres:** Hürriyet Mh. İzzet Paşa Cd. No: 6-B Kâğıthane/İstanbul
-- **Telefon:** 0552 500 15 11
-- **E-posta:** info@egebeyigida.com
-- **Instagram:** @egebeyigida
-- **Çalışma saatleri:** Pzt-Cmt 06:00-20:00
-- **Hizmet bölgeleri:** İstanbul & İzmir
-
-## Bilinen Sorunlar
-1. ~26 ürün görseli eksik/placeholder (icerik.md'de işaretli)
-2. Ürün sayfalarında navigasyon ana sayfadan farklı ("Neden Biz" linki eksik)
-3. Görsel yollarında URL encoding tutarsızlığı (Kapak Fotoğrafları klasörü)
-4. Ürün sayfalarında hamburger menü tam çalışmayabilir
+- Adres (sadece bu gösterilir): Hürriyet Mh. İzzet Paşa Cd. No: 6-B Kâğıthane/İstanbul · Teslimat: İstanbul ve İzmir geneli
+- Tel/WhatsApp: 0552 500 15 11 · info@egebeyigida.com · @egebeyigida
+- Çalışma saati sitede GÖSTERİLMEZ (kullanıcı kararı). Teslim günü sayısı belirtilmez.
 
 ## Git
-- `.gitignore`: .DS_Store ve .claude/ dizini hariç tutuluyor
-- Remote: kurulu (git push kullanılabilir)
+- `dist/`, `.cache/`, `.wrangler/` ignore'da. Remote kurulu.

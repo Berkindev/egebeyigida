@@ -1,0 +1,2862 @@
+[
+ {
+  "file": "images/Avocado.png",
+  "w": 1080,
+  "h": 1080,
+  "subject": "\"5 Benefits of Avocado\" bilgi grafiği (İngilizce)",
+  "kind": "text-graphic",
+  "quality": "ok",
+  "has_text_or_watermark": "other-text",
+  "notes": "1080px; English text infographic, not a product photo"
+ },
+ {
+  "file": "images/Collage1.jpg",
+  "w": 729,
+  "h": 583,
+  "subject": "Hazır ürünler kolajı",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "dup of legacy Brown-Coffee-Photo-Collage.jpg"
+ },
+ {
+  "file": "images/Kapak Fotoğrafları/Avokado.png",
+  "w": 1080,
+  "h": 1080,
+  "subject": "Avokado kategori kapağı",
+  "kind": "collage/branded-cover",
+  "quality": "high",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "1080px cover"
+ },
+ {
+  "file": "images/Kapak Fotoğrafları/Butik Turşular.png",
+  "w": 1080,
+  "h": 1080,
+  "subject": "Butik turşular kategori kapağı (kapari, deniz börülcesi, kaya koruğu turşusu, bamya)",
+  "kind": "collage/branded-cover",
+  "quality": "high",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "1080px cover with logo+title"
+ },
+ {
+  "file": "images/Kapak Fotoğrafları/Ege Otları.png",
+  "w": 1080,
+  "h": 1080,
+  "subject": "Ege otları kategori kapağı (deniz börülcesi, deniz fasulyesi, kabak çiçeği)",
+  "kind": "collage/branded-cover",
+  "quality": "high",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "1080px cover"
+ },
+ {
+  "file": "images/Kapak Fotoğrafları/Enginar.png",
+  "w": 1080,
+  "h": 1080,
+  "subject": "Enginar kategori kapağı (baby enginar, ızgara, zeytinyağlı, çanak)",
+  "kind": "collage/branded-cover",
+  "quality": "high",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "1080px cover"
+ },
+ {
+  "file": "images/Kapak Fotoğrafları/Hazır Kullanım Ürünleri.png",
+  "w": 1080,
+  "h": 1080,
+  "subject": "Hazır ürünler kategori kapağı (közlenmiş biber, arpacık, ızgara zeytin, füme balık)",
+  "kind": "collage/branded-cover",
+  "quality": "high",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "1080px cover"
+ },
+ {
+  "file": "images/Kapak Fotoğrafları/Tropikal Meyveler.png",
+  "w": 1080,
+  "h": 1080,
+  "subject": "Tropikal meyveler kategori kapağı (mango, physalis, ananas, ahududu)",
+  "kind": "collage/branded-cover",
+  "quality": "high",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "1080px cover"
+ },
+ {
+  "file": "images/ahududu.jpeg",
+  "w": 1600,
+  "h": 1600,
+  "subject": "Ahududu",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1600px white bg stock"
+ },
+ {
+  "file": "images/alessia-enginar-branded.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Alessia enginar kalbi (720gr)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "dup of alessia-enginar.jpeg"
+ },
+ {
+  "file": "images/alessia-enginar.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Alessia enginar kalbi (720gr)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "Alessia label visible; EgeBeyi layout+title; byte-identical to alessia-enginar-branded.jpeg"
+ },
+ {
+  "file": "images/altin-cilek-physalis.jpeg",
+  "w": 1600,
+  "h": 1600,
+  "subject": "Altın çilek / physalis",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1600px white bg stock"
+ },
+ {
+  "file": "images/ananas.jpeg",
+  "w": 1600,
+  "h": 1600,
+  "subject": "Ananas (tek meyve, beyaz zemin)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1600px stock"
+ },
+ {
+  "file": "images/arapsaci-branded.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Arapsaçı (EgeBeyi layout)",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "byte-identical to arapsaci.jpeg"
+ },
+ {
+  "file": "images/arapsaci.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Arapsaçı (EgeBeyi layout)",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "photo from greenada-style catalog (greenada origin) + title + logo; byte-identical to arapsaci-branded.jpeg"
+ },
+ {
+  "file": "images/avokado-agaci.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Avokado (ağaçta, bahçe)",
+  "kind": "raw-in-field",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1152x2048 vertical own orchard photo; dup of avokado-agaci3.jpeg"
+ },
+ {
+  "file": "images/avokado-agaci2.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Avokado (ağaçta, Hass tipi salkım)",
+  "kind": "raw-in-field",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1152x2048 own orchard photo; dup of avokado-agaci4.jpeg"
+ },
+ {
+  "file": "images/avokado-agaci3.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Avokado (ağaçta)",
+  "kind": "raw-in-field",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "dup of avokado-agaci.jpeg"
+ },
+ {
+  "file": "images/avokado-agaci4.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Avokado (ağaçta, Hass tipi salkım)",
+  "kind": "raw-in-field",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "dup of avokado-agaci2.jpeg"
+ },
+ {
+  "file": "images/avokado-fuerte.jpeg",
+  "w": 1600,
+  "h": 1600,
+  "subject": "Fuerte avokado (bütün + yarım, beyaz zemin)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1600px stock packshot; byte-identical to avokado.jpeg"
+ },
+ {
+  "file": "images/avokado.jpeg",
+  "w": 1600,
+  "h": 1600,
+  "subject": "Fuerte avokado (bütün + yarım)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "dup of avokado-fuerte.jpeg"
+ },
+ {
+  "file": "images/bogurtlen.jpeg",
+  "w": 1600,
+  "h": 1600,
+  "subject": "Böğürtlen",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1600px white bg stock"
+ },
+ {
+  "file": "images/carkifelek.jpeg",
+  "w": 450,
+  "h": 450,
+  "subject": "Çarkıfelek (passion fruit)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "450px, white bg stock"
+ },
+ {
+  "file": "images/cibes-otu-branded.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Izgara enginar kalbi (EgeBeyi layout, kalp çerçeve)",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "byte-identical to enginar-kalbi-izgara.jpeg (mis-named)"
+ },
+ {
+  "file": "images/cibes-otu.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Cibes otu (EgeBeyi layout)",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "byte-identical to radika-branded.jpeg (mis-named copy; content is Cibes Otu); greenada-derived photo"
+ },
+ {
+  "file": "images/collage2.png",
+  "w": 2048,
+  "h": 2048,
+  "subject": "Avokado kolajı (yeşil \"AVOKADO\" + logo)",
+  "kind": "collage/branded-cover",
+  "quality": "high",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "2048px; Gemini sparkle watermark bottom-right (AI/edited); dup layout of Avokado cover"
+ },
+ {
+  "file": "images/collage3.png",
+  "w": 1080,
+  "h": 1080,
+  "subject": "Marka kolajı: enginar / avokado / kabak çiçeği / çanak enginar",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "1080px; logo center"
+ },
+ {
+  "file": "images/demirhindi.jpeg",
+  "w": 1600,
+  "h": 1600,
+  "subject": "Demirhindi (tamarind)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1600px white bg stock"
+ },
+ {
+  "file": "images/deniz-borulcesi-branded.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Deniz börülcesi (EgeBeyi layout)",
+  "kind": "collage/branded-cover",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "byte-identical to deniz-borulcesi.jpeg"
+ },
+ {
+  "file": "images/deniz-borulcesi.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Deniz börülcesi (stok kesim, EgeBeyi layout)",
+  "kind": "collage/branded-cover",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "upscaled blurry cutout + title + logo; dup of deniz-borulcesi-branded.jpeg"
+ },
+ {
+  "file": "images/dolgulu-biber-kirmizi.jpeg",
+  "w": 554,
+  "h": 554,
+  "subject": "Peynir dolgulu kiraz biber",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "dup of dolgulu-biber-kirmizi2.jpeg"
+ },
+ {
+  "file": "images/dolgulu-biber-kirmizi2.jpeg",
+  "w": 554,
+  "h": 554,
+  "subject": "Peynir dolgulu kiraz biber",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "554px, basket on burlap; dup of dolgulu-biber-kirmizi.jpeg"
+ },
+ {
+  "file": "images/dolgulu-biber-yesil.jpeg",
+  "w": 554,
+  "h": 554,
+  "subject": "Peynir dolgulu yeşil biber / jalapeno",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "554px, white bg, bowl on burlap; dup of dolgulu-biber-yesil2.jpeg"
+ },
+ {
+  "file": "images/dolgulu-biber-yesil2.jpeg",
+  "w": 554,
+  "h": 554,
+  "subject": "Peynir dolgulu yeşil biber / jalapeno",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "dup of dolgulu-biber-yesil.jpeg"
+ },
+ {
+  "file": "images/egebeyi-gida-logo.jpeg",
+  "w": 1600,
+  "h": 671,
+  "subject": "EgeBeyi logosu (açık gri zemin, yatay)",
+  "kind": "logo",
+  "quality": "high",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "1600x671"
+ },
+ {
+  "file": "images/egebeyilogo.png",
+  "w": 1846,
+  "h": 775,
+  "subject": "EgeBeyi logosu (beyaz zemin, 1846x775)",
+  "kind": "logo",
+  "quality": "high",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "dup of legacy cropped-EgeBeyiLOGO-01.png"
+ },
+ {
+  "file": "images/egebeyilogo2.jpg",
+  "w": 1080,
+  "h": 1080,
+  "subject": "EgeBeyi logosu (kare)",
+  "kind": "logo",
+  "quality": "high",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "1080x1080 white"
+ },
+ {
+  "file": "images/ekliste.jpg",
+  "w": 466,
+  "h": 1118,
+  "subject": "Haftalık fiyat listesi ekran görüntüsü (EgeBeyi, 09/02-15/02)",
+  "kind": "screenshot",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "466x1118 cropped price list screenshot: not a photo; lists tropikal ürünler"
+ },
+ {
+  "file": "images/enginar-fine-dining.jpeg",
+  "w": 1500,
+  "h": 2000,
+  "subject": "Baby enginar kalbi (fine-dining sunum, çiçekli tabak)",
+  "kind": "product-in-use/plated",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1500x2000 plated (zeytinyağı, mikro yeşillik, hercai menekşe); dup of enginar-tabak.jpeg"
+ },
+ {
+  "file": "images/enginar-kalbi-izgara.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Izgara enginar kalbi (EgeBeyi layout, kalp çerçeve)",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "byte-identical to cibes-otu-branded.jpeg (mis-named copy!); same as pics/enginar kalbi.jpg"
+ },
+ {
+  "file": "images/enginar-tabak.jpeg",
+  "w": 1500,
+  "h": 2000,
+  "subject": "Baby enginar kalbi (fine-dining sunum)",
+  "kind": "product-in-use/plated",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "dup of enginar-fine-dining.jpeg"
+ },
+ {
+  "file": "images/hindiba.jpeg",
+  "w": 1200,
+  "h": 1200,
+  "subject": "Hindiba / Belçika endivi (beyaz çikori)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1200px stock"
+ },
+ {
+  "file": "images/kabak-cicegi-branded.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Kabak çiçeği (EgeBeyi layout, beyaz zemin)",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "byte-identical to kabak-cicegi.jpeg"
+ },
+ {
+  "file": "images/kabak-cicegi-doga.jpeg",
+  "w": 1536,
+  "h": 2048,
+  "subject": "Kabak çiçeği (tarlada, yan açı)",
+  "kind": "raw-in-field",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "dup of kabak-cicegi-tarla.jpeg"
+ },
+ {
+  "file": "images/kabak-cicegi-doga2.jpeg",
+  "w": 1536,
+  "h": 2048,
+  "subject": "Kabak çiçeği (tarlada, bitki üzerinde)",
+  "kind": "raw-in-field",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "dup of kabak-cicegi-tarla2.jpeg"
+ },
+ {
+  "file": "images/kabak-cicegi-tarla.jpeg",
+  "w": 1536,
+  "h": 2048,
+  "subject": "Kabak çiçeği (tarlada)",
+  "kind": "raw-in-field",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "dup of kabak-cicegi-doga.jpeg"
+ },
+ {
+  "file": "images/kabak-cicegi-tarla2.jpeg",
+  "w": 1536,
+  "h": 2048,
+  "subject": "Kabak çiçeği (tarlada, bitki üzerinde)",
+  "kind": "raw-in-field",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1536x2048 own field photo, sharp, bokeh; dup of kabak-cicegi-doga2.jpeg"
+ },
+ {
+  "file": "images/kabak-cicegi.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Kabak çiçeği (EgeBeyi layout, beyaz zemin)",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "dup of kabak-cicegi-branded.jpeg"
+ },
+ {
+  "file": "images/kizilcik.jpeg",
+  "w": 1600,
+  "h": 1600,
+  "subject": "Frenk üzümü / kızılcık tipi kırmızı yabani meyve (redberry/lingonberry)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1600px white bg stock; price list calls it \"Frenk Üzümü (Redberry)\""
+ },
+ {
+  "file": "images/kuskonmaz.jpeg",
+  "w": 1600,
+  "h": 1600,
+  "subject": "Kuşkonmaz (yeşil)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1600px white bg stock"
+ },
+ {
+  "file": "images/mango.jpeg",
+  "w": 1600,
+  "h": 1201,
+  "subject": "Mango",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1600x1201 white bg stock"
+ },
+ {
+  "file": "images/marine-domates-gercek.jpeg",
+  "w": 1536,
+  "h": 2048,
+  "subject": "Marine kuru domates (ambalaj içinde, üstten)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1536x2048 own photo; plastic tray, bay leaf; dup of marine-domates.jpeg"
+ },
+ {
+  "file": "images/marine-domates.jpeg",
+  "w": 1536,
+  "h": 2048,
+  "subject": "Marine kuru domates (ambalaj içinde)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "dup of marine-domates-gercek.jpeg"
+ },
+ {
+  "file": "images/misket-limonu.jpeg",
+  "w": 1600,
+  "h": 1600,
+  "subject": "Lime (misket limonu, nane yapraklı)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1600px white bg stock"
+ },
+ {
+  "file": "images/radika-branded.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Cibes otu (EgeBeyi layout)",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "byte-identical to cibes-otu.jpeg; greenada-derived photo + title + logo"
+ },
+ {
+  "file": "images/radika.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Radika (EgeBeyi layout)",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "frisée photo + title + logo; catalog-source (greenada style)"
+ },
+ {
+  "file": "images/ristoris-enginar-branded.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Ristoris Roma tipi sapli enginar kalbi (2900gr)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "Ristoris label; EgeBeyi logo + title; byte-identical to ristoris-enginar.jpeg"
+ },
+ {
+  "file": "images/ristoris-enginar.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Ristoris Roma tipi sapli enginar kalbi (2900gr)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "dup of ristoris-enginar-branded.jpeg"
+ },
+ {
+  "file": "images/tatli-patates.jpeg",
+  "w": 1600,
+  "h": 1600,
+  "subject": "Tatlı patates",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1600px white bg stock"
+ },
+ {
+  "file": "images/tursu-kavanoz.jpeg",
+  "w": 1033,
+  "h": 1453,
+  "subject": "Çanak enginar (dilimli, kavanozda)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "1033x1453 own jar photo on white (name says turşu but content is çanak enginar); dup of tursu-kavun.jpeg"
+ },
+ {
+  "file": "images/tursu-kavun.jpeg",
+  "w": 1033,
+  "h": 1453,
+  "subject": "Çanak enginar (dilimli, kavanozda)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "dup of tursu-kavanoz.jpeg"
+ },
+ {
+  "file": "images/viru-enginar-branded.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Viru Roma tipi sapli enginar kalbi (1800ml)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "dup of viru-enginar.jpeg"
+ },
+ {
+  "file": "images/viru-enginar.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Viru Roma tipi sapli enginar kalbi (1800ml)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "Viru label visible; EgeBeyi layout+title; byte-identical to viru-enginar-branded.jpeg"
+ },
+ {
+  "file": "images/yaban-mersini.jpeg",
+  "w": 1600,
+  "h": 1600,
+  "subject": "Yaban mersini",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1600px white bg stock"
+ },
+ {
+  "file": "images/yerli-avokado-branded.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Yerli olgun avokado (EgeBeyi layout)",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "byte-identical to yerli-avokado.jpeg"
+ },
+ {
+  "file": "images/yerli-avokado.jpeg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Yerli olgun avokado (EgeBeyi layout)",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "dup of yerli-avokado-branded.jpeg"
+ },
+ {
+  "file": "images/yildiz-meyvesi.jpeg",
+  "w": 1600,
+  "h": 1600,
+  "subject": "Yıldız meyvesi (karambola)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "Small \"Gurme Verita\" brand sticker on fruit -> third-party brand visible; retouch or avoid"
+ },
+ {
+  "file": "images/zencefil.jpeg",
+  "w": 1600,
+  "h": 1600,
+  "subject": "Zencefil (kurutulmuş/kök)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "1600px white bg stock; looks like dried ginger pieces"
+ },
+ {
+  "file": "images/zerdecal.jpeg",
+  "w": 1600,
+  "h": 1600,
+  "subject": "Zerdeçal (kök + dilim)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1600px white bg stock"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2020/08/horticulture-dairy-produce-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "WordPress tema stok görseli",
+  "kind": "theme-stock",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "theme-stock (not viewed)"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2020/08/horticulture-dairy-produce-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "WordPress tema stok görseli",
+  "kind": "theme-stock",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "theme-stock (not viewed)"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2020/08/horticulture-dairy-produce.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "WordPress tema stok görseli",
+  "kind": "theme-stock",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "theme-stock (not viewed)"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2020/08/horticulture-fruit-produce-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "WordPress tema stok görseli",
+  "kind": "theme-stock",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "theme-stock (not viewed)"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2020/08/horticulture-fruit-produce-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "WordPress tema stok görseli",
+  "kind": "theme-stock",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "theme-stock (not viewed)"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2020/08/horticulture-fruit-produce-image-300x200.jpg",
+  "w": 300,
+  "h": 200,
+  "subject": "WordPress tema stok görseli",
+  "kind": "theme-stock",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "theme-stock (not viewed)"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2020/08/horticulture-fruit-produce-image-768x512.jpg",
+  "w": 768,
+  "h": 512,
+  "subject": "WordPress tema stok görseli",
+  "kind": "theme-stock",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "theme-stock (not viewed)"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2020/08/horticulture-fruit-produce-image.jpg",
+  "w": 800,
+  "h": 533,
+  "subject": "WordPress tema stok görseli",
+  "kind": "theme-stock",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "theme-stock (not viewed)"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2020/08/horticulture-fruit-produce.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "WordPress tema stok görseli",
+  "kind": "theme-stock",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "theme-stock (not viewed)"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2020/08/horticulture-vegetable-produce-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "WordPress tema stok görseli",
+  "kind": "theme-stock",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "theme-stock (not viewed)"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2020/08/horticulture-vegetable-produce-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "WordPress tema stok görseli",
+  "kind": "theme-stock",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "theme-stock (not viewed)"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2020/08/horticulture-vegetable-produce-image-300x200.jpg",
+  "w": 300,
+  "h": 200,
+  "subject": "WordPress tema stok görseli",
+  "kind": "theme-stock",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "theme-stock (not viewed)"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2020/08/horticulture-vegetable-produce-image-768x512.jpg",
+  "w": 768,
+  "h": 512,
+  "subject": "WordPress tema stok görseli",
+  "kind": "theme-stock",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "theme-stock (not viewed)"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2020/08/horticulture-vegetable-produce-image.jpg",
+  "w": 800,
+  "h": 533,
+  "subject": "WordPress tema stok görseli",
+  "kind": "theme-stock",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "theme-stock (not viewed)"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2020/08/horticulture-vegetable-produce.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "WordPress tema stok görseli",
+  "kind": "theme-stock",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "theme-stock (not viewed)"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/20ddde3b-ef8b-4de1-8749-b1303131d894-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Deniz Börülcesi turşusu (kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/20ddde3b-ef8b-4de1-8749-b1303131d894.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/20ddde3b-ef8b-4de1-8749-b1303131d894-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Deniz Börülcesi turşusu (kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/20ddde3b-ef8b-4de1-8749-b1303131d894.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/20ddde3b-ef8b-4de1-8749-b1303131d894.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Deniz Börülcesi turşusu (kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "EgeBeyi logo + \"Deniz Börülcesi\" text overlay; 400px; bright green-yellow cut pieces in PET jar"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/2a19bf68-cad9-4143-8e6f-160931415126-1-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Deniz börülcesi / kaya koruğu turşusu (yakın çekim, düz yapraklı)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/2a19bf68-cad9-4143-8e6f-160931415126-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/2a19bf68-cad9-4143-8e6f-160931415126-1-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Deniz börülcesi / kaya koruğu turşusu (yakın çekim, düz yapraklı)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/2a19bf68-cad9-4143-8e6f-160931415126-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/2a19bf68-cad9-4143-8e6f-160931415126-1.jpg",
+  "w": 728,
+  "h": 728,
+  "subject": "Deniz börülcesi / kaya koruğu turşusu (yakın çekim, düz yapraklı)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "own-looking photo, no text; close-up of pickled leaves; species label ambiguous (see img-9264 in pics)"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/3504ecac-42d6-4f59-ab51-1896dc24e1f2-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Deniz börülcesi (taze, yakın çekim)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/3504ecac-42d6-4f59-ab51-1896dc24e1f2.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/3504ecac-42d6-4f59-ab51-1896dc24e1f2-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Deniz börülcesi (taze, yakın çekim)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/3504ecac-42d6-4f59-ab51-1896dc24e1f2.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/3504ecac-42d6-4f59-ab51-1896dc24e1f2.jpg",
+  "w": 404,
+  "h": 404,
+  "subject": "Deniz börülcesi (taze, yakın çekim)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "404px; also in pics/; byte-identical to pics/3504ecac-42d6-4f59-ab51-1896dc24e1f2.jpg"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/35a353bf-1245-419e-ab34-5003e2877e88-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Soyulmuş arpacık soğan",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/35a353bf-1245-419e-ab34-5003e2877e88.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/35a353bf-1245-419e-ab34-5003e2877e88-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Soyulmuş arpacık soğan",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/35a353bf-1245-419e-ab34-5003e2877e88.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/35a353bf-1245-419e-ab34-5003e2877e88-768x768.jpg",
+  "w": 768,
+  "h": 768,
+  "subject": "Soyulmuş arpacık soğan",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/35a353bf-1245-419e-ab34-5003e2877e88.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/35a353bf-1245-419e-ab34-5003e2877e88.jpg",
+  "w": 957,
+  "h": 957,
+  "subject": "Soyulmuş arpacık soğan",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "own photo, 957px pile; also in pics/; byte-identical to pics/35a353bf-1245-419e-ab34-5003e2877e88.jpg"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/38b7f28f-211e-4544-9350-c1e5cacdada31-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Marine kuru domates (yakın çekim)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/38b7f28f-211e-4544-9350-c1e5cacdada31.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/38b7f28f-211e-4544-9350-c1e5cacdada31-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Marine kuru domates (yakın çekim)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/38b7f28f-211e-4544-9350-c1e5cacdada31.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/38b7f28f-211e-4544-9350-c1e5cacdada31.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Marine kuru domates (yakın çekim)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "400px, defekt: dar kırpma; defne yaprağı"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/59bd81f8-9dcd-428a-ba76-56ebf691d096-1-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Kurutulmuş atom biberi (kurutulmuş kırmızı acı biber)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/59bd81f8-9dcd-428a-ba76-56ebf691d096-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/59bd81f8-9dcd-428a-ba76-56ebf691d096-1-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Kurutulmuş atom biberi (kurutulmuş kırmızı acı biber)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/59bd81f8-9dcd-428a-ba76-56ebf691d096-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/59bd81f8-9dcd-428a-ba76-56ebf691d096-1.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Kurutulmuş atom biberi (kurutulmuş kırmızı acı biber)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "400px, bowl of dried red chilies"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/5f821bce-d74e-4ebe-94e4-70007ddb4c01-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Avokado (ağaçta, Hass tipi)",
+  "kind": "raw-in-field",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/5f821bce-d74e-4ebe-94e4-70007ddb4c01.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/5f821bce-d74e-4ebe-94e4-70007ddb4c01-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Avokado (ağaçta, Hass tipi)",
+  "kind": "raw-in-field",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/5f821bce-d74e-4ebe-94e4-70007ddb4c01.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/5f821bce-d74e-4ebe-94e4-70007ddb4c01.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Avokado (ağaçta, Hass tipi)",
+  "kind": "raw-in-field",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "400px close on tree"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/6f030159-40ca-4e1c-8071-57a3344dc395-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Deniz fasulyesi (taze)",
+  "kind": "raw-in-field",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/6f030159-40ca-4e1c-8071-57a3344dc395.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/6f030159-40ca-4e1c-8071-57a3344dc395-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Deniz fasulyesi (taze)",
+  "kind": "raw-in-field",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/6f030159-40ca-4e1c-8071-57a3344dc395.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/6f030159-40ca-4e1c-8071-57a3344dc395.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Deniz fasulyesi (taze)",
+  "kind": "raw-in-field",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "400px close-up bright green succulent sprigs (Salsola/agretti-like)"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/83a17b91-41a0-4e44-bfec-24567623ff64-1-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Marine uskumru füme / füme balık (dereotlu)",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/83a17b91-41a0-4e44-bfec-24567623ff64-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/83a17b91-41a0-4e44-bfec-24567623ff64-1-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Marine uskumru füme / füme balık (dereotlu)",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/83a17b91-41a0-4e44-bfec-24567623ff64-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/83a17b91-41a0-4e44-bfec-24567623ff64-1.jpg",
+  "w": 700,
+  "h": 700,
+  "subject": "Marine uskumru füme / füme balık (dereotlu)",
+  "kind": "product-in-use/plated",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "700px; looks like stock; also in pics/; byte-identical to pics/83a17b91-41a0-4e44-bfec-24567623ff64-1.jpg"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/8a7a4686-9725-4948-95b5-623ecf39c154-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Soyulmuş sarımsak",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/8a7a4686-9725-4948-95b5-623ecf39c154.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/8a7a4686-9725-4948-95b5-623ecf39c154-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Soyulmuş sarımsak",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/8a7a4686-9725-4948-95b5-623ecf39c154.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/8a7a4686-9725-4948-95b5-623ecf39c154-768x768.jpg",
+  "w": 768,
+  "h": 768,
+  "subject": "Soyulmuş sarımsak",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/8a7a4686-9725-4948-95b5-623ecf39c154.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/8a7a4686-9725-4948-95b5-623ecf39c154.jpg",
+  "w": 963,
+  "h": 963,
+  "subject": "Soyulmuş sarımsak",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "own photo, top-down pile, 963px; good"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/921e8daa-0017-40d0-81bd-d3c47ea041cd-1-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Turşu (kavanoz içi, ince kıyılmış ot; muhtemelen biberiye turşusu)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/921e8daa-0017-40d0-81bd-d3c47ea041cd-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/921e8daa-0017-40d0-81bd-d3c47ea041cd-1-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Turşu (kavanoz içi, ince kıyılmış ot; muhtemelen biberiye turşusu)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/921e8daa-0017-40d0-81bd-d3c47ea041cd-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/921e8daa-0017-40d0-81bd-d3c47ea041cd-1.jpg",
+  "w": 659,
+  "h": 659,
+  "subject": "Turşu (kavanoz içi, ince kıyılmış ot; muhtemelen biberiye turşusu)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "blurry, through glass, species uncertain"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/96be864a-6aba-4e3b-b715-22febf0cb808-1-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Kabak çiçeği (taze, elde)",
+  "kind": "raw-in-field",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/96be864a-6aba-4e3b-b715-22febf0cb808-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/96be864a-6aba-4e3b-b715-22febf0cb808-1-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Kabak çiçeği (taze, elde)",
+  "kind": "raw-in-field",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/96be864a-6aba-4e3b-b715-22febf0cb808-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/96be864a-6aba-4e3b-b715-22febf0cb808-1.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Kabak çiçeği (taze, elde)",
+  "kind": "raw-in-field",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "400px real photo, hand visible"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/9ef3d08c-eac3-427d-9976-fea45724819e-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Yerli avokado (Fuerte/Bacon tipi, mavi kasada)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/9ef3d08c-eac3-427d-9976-fea45724819e.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/9ef3d08c-eac3-427d-9976-fea45724819e-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Yerli avokado (Fuerte/Bacon tipi, mavi kasada)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/9ef3d08c-eac3-427d-9976-fea45724819e.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/9ef3d08c-eac3-427d-9976-fea45724819e.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Yerli avokado (Fuerte/Bacon tipi, mavi kasada)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "own photo in crate, 400px"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Adsiz-tasarim-1-300x200.jpg",
+  "w": 300,
+  "h": 200,
+  "subject": "Yerli avokado (Fuerte/Bacon tipi kasada + Hass kesit) kolaj",
+  "kind": "collage/branded-cover",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/Adsiz-tasarim-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Adsiz-tasarim-1.jpg",
+  "w": 704,
+  "h": 469,
+  "subject": "Yerli avokado (Fuerte/Bacon tipi kasada + Hass kesit) kolaj",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "2-photo collage, own photos likely; 704x469"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Adsiz-tasarim-2-300x200.jpg",
+  "w": 300,
+  "h": 200,
+  "subject": "Meze tabağı / karışık meze sofrası (turşu & salata)",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/Adsiz-tasarim-2.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Adsiz-tasarim-2-768x512.jpg",
+  "w": 768,
+  "h": 512,
+  "subject": "Meze tabağı / karışık meze sofrası (turşu & salata)",
+  "kind": "product-in-use/plated",
+  "quality": "ok",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/Adsiz-tasarim-2.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Adsiz-tasarim-2.jpg",
+  "w": 800,
+  "h": 533,
+  "subject": "Meze tabağı / karışık meze sofrası (turşu & salata)",
+  "kind": "product-in-use/plated",
+  "quality": "ok",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "iStock by Getty Images watermark tiled across image -> NOT reusable"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Adsiz-tasarim-300x200.jpg",
+  "w": 300,
+  "h": 200,
+  "subject": "Kabak çiçeği (sol) + şevketi bostan (sağ) kolaj",
+  "kind": "collage/branded-cover",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/Adsiz-tasarim.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Adsiz-tasarim-4-300x200.jpg",
+  "w": 300,
+  "h": 200,
+  "subject": "Karışık turşu (raf, kavanozlar)",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/Adsiz-tasarim-4.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Adsiz-tasarim-4.jpg",
+  "w": 765,
+  "h": 510,
+  "subject": "Karışık turşu (raf, kavanozlar)",
+  "kind": "product-in-use/plated",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "shelf of pickle jars (peppers, corn, carrots...), looks like stock/web image; 765x510"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Adsiz-tasarim-6-300x200.jpg",
+  "w": 300,
+  "h": 200,
+  "subject": "Baby enginar kalbi (sapli, yağda, kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/Adsiz-tasarim-6.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Adsiz-tasarim-6-768x512.jpg",
+  "w": 768,
+  "h": 512,
+  "subject": "Baby enginar kalbi (sapli, yağda, kavanoz)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/Adsiz-tasarim-6.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Adsiz-tasarim-6.jpg",
+  "w": 800,
+  "h": 533,
+  "subject": "Baby enginar kalbi (sapli, yağda, kavanoz)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "generic jar on white, no label; 800x533"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Adsiz-tasarim-768x512.jpg",
+  "w": 768,
+  "h": 512,
+  "subject": "Kabak çiçeği (sol) + şevketi bostan (sağ) kolaj",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/Adsiz-tasarim.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Adsiz-tasarim.jpg",
+  "w": 800,
+  "h": 533,
+  "subject": "Kabak çiçeği (sol) + şevketi bostan (sağ) kolaj",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "800x533 collage; duplicates pieces of other photos"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Brown-Coffee-Photo-Collage-300x240.jpg",
+  "w": 300,
+  "h": 240,
+  "subject": "Hazır ürünler kolajı (közlenmiş biber, dolgulu kiraz biber, ızgara zeytin, sarımsak)",
+  "kind": "collage/branded-cover",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/Brown-Coffee-Photo-Collage.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Brown-Coffee-Photo-Collage.jpg",
+  "w": 729,
+  "h": 583,
+  "subject": "Hazır ürünler kolajı (közlenmiş biber, dolgulu kiraz biber, ızgara zeytin, sarımsak)",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "Egebeyi logo center; 729x583; duplicate of images/Collage1.jpg"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Izgara-Zeytin-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Soslu ızgara zeytin",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/Izgara-Zeytin.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Izgara-Zeytin-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Soslu ızgara zeytin",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/Izgara-Zeytin.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Izgara-Zeytin.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Soslu ızgara zeytin",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "400px, kuru domates parçalı; also in pics/; byte-identical to pics/Izgara-Zeytin.jpg"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Jalapeno-biber-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Peynir dolgulu jalapeno / yeşil biber",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/Jalapeno-biber.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Jalapeno-biber-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Peynir dolgulu jalapeno / yeşil biber",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/Jalapeno-biber.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Jalapeno-biber.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Peynir dolgulu jalapeno / yeşil biber",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "white background bowl on burlap; stock-like; 400px"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Kiraz-Biber-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Peynir dolgulu kiraz biber",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/Kiraz-Biber.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Kiraz-Biber-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Peynir dolgulu kiraz biber",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/Kiraz-Biber.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/Kiraz-Biber.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Peynir dolgulu kiraz biber",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "white background catalog shot in wicker basket on burlap; 400px; stock-like (same shot as images/dolgulu-biber-kirmizi)"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/avokado-nasil-yenir-sifa-deposu-avokado-nasil-tuketilmelidir-9b8c66eb-86c8-4d2e-9ee1-64dd6f5977f0-300x225.webp",
+  "w": 300,
+  "h": 225,
+  "subject": "Avokado tost + yarım avokado",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/avokado-nasil-yenir-sifa-deposu-avokado-nasil-tuketilmelidir-9b8c66eb-86c8-4d2e-9ee1-64dd6f5977f0.webp; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/avokado-nasil-yenir-sifa-deposu-avokado-nasil-tuketilmelidir-9b8c66eb-86c8-4d2e-9ee1-64dd6f5977f0-768x576.webp",
+  "w": 768,
+  "h": 576,
+  "subject": "Avokado tost + yarım avokado",
+  "kind": "product-in-use/plated",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/avokado-nasil-yenir-sifa-deposu-avokado-nasil-tuketilmelidir-9b8c66eb-86c8-4d2e-9ee1-64dd6f5977f0.webp; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/avokado-nasil-yenir-sifa-deposu-avokado-nasil-tuketilmelidir-9b8c66eb-86c8-4d2e-9ee1-64dd6f5977f0.webp",
+  "w": 800,
+  "h": 600,
+  "subject": "Avokado tost + yarım avokado",
+  "kind": "product-in-use/plated",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "800x600 stock lifestyle photo from a Turkish health site (source in filename: \"sifa deposu\"); no visible watermark"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/b925baf2-de51-4f9e-bc53-7f6bd0a13824-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Yerli avokado (ağaçta, armut formlu)",
+  "kind": "raw-in-field",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/b925baf2-de51-4f9e-bc53-7f6bd0a13824.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/b925baf2-de51-4f9e-bc53-7f6bd0a13824-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Yerli avokado (ağaçta, armut formlu)",
+  "kind": "raw-in-field",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/b925baf2-de51-4f9e-bc53-7f6bd0a13824.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/b925baf2-de51-4f9e-bc53-7f6bd0a13824.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Yerli avokado (ağaçta, armut formlu)",
+  "kind": "raw-in-field",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "400px on tree"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/b92dbfe7-e664-4179-b337-601ec20d0c31-1-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Kapari meyvesi turşusu (yarım kesit, saplı)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/b92dbfe7-e664-4179-b337-601ec20d0c31-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/b92dbfe7-e664-4179-b337-601ec20d0c31-1-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Kapari meyvesi turşusu (yarım kesit, saplı)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/b92dbfe7-e664-4179-b337-601ec20d0c31-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/b92dbfe7-e664-4179-b337-601ec20d0c31-1.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Kapari meyvesi turşusu (yarım kesit, saplı)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "400px; also in pics/; byte-identical to pics/b92dbfe7-e664-4179-b337-601ec20d0c31-1.jpg"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/c09754a4-a54a-413c-8f75-9428b2b6326c-1-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Şevketi bostan (soyulmuş saplar, tarlada)",
+  "kind": "raw-in-field",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/c09754a4-a54a-413c-8f75-9428b2b6326c-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/c09754a4-a54a-413c-8f75-9428b2b6326c-1-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Şevketi bostan (soyulmuş saplar, tarlada)",
+  "kind": "raw-in-field",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/c09754a4-a54a-413c-8f75-9428b2b6326c-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/c09754a4-a54a-413c-8f75-9428b2b6326c-1.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Şevketi bostan (soyulmuş saplar, tarlada)",
+  "kind": "raw-in-field",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "400px; peeler visible; real field/market shot"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/cropped-EgeBeyiLOGO-01-150x63.png",
+  "w": 150,
+  "h": 63,
+  "subject": "EgeBeyi logosu",
+  "kind": "logo",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/cropped-EgeBeyiLOGO-01.png; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/cropped-EgeBeyiLOGO-01.png",
+  "w": 1846,
+  "h": 775,
+  "subject": "EgeBeyi logosu",
+  "kind": "logo",
+  "quality": "high",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "1846x775; duplicate of images/egebeyilogo.png"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/cropped-organic-product-180x180.png",
+  "w": 180,
+  "h": 180,
+  "subject": "WP site-ikonu (yaprak çizimi)",
+  "kind": "theme-stock",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "generic leaf icon from WP theme (organic-product); not Egebeyi branding"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/cropped-organic-product-192x192.png",
+  "w": 192,
+  "h": 192,
+  "subject": "WP site-ikonu (yaprak çizimi)",
+  "kind": "theme-stock",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "generic leaf icon from WP theme (organic-product); not Egebeyi branding"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/cropped-organic-product-270x270.png",
+  "w": 270,
+  "h": 270,
+  "subject": "WP site-ikonu (yaprak çizimi)",
+  "kind": "theme-stock",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "generic leaf icon from WP theme (organic-product); not Egebeyi branding"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/cropped-organic-product-32x32.png",
+  "w": 32,
+  "h": 32,
+  "subject": "WP site-ikonu (yaprak çizimi)",
+  "kind": "theme-stock",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "generic leaf icon from WP theme (organic-product); not Egebeyi branding"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/d2b65b80-73e4-40ed-a393-a4a85fb04d80-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Marine hamsi (domates soslu, tahtada)",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/d2b65b80-73e4-40ed-a393-a4a85fb04d80.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/d2b65b80-73e4-40ed-a393-a4a85fb04d80-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Marine hamsi (domates soslu, tahtada)",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/d2b65b80-73e4-40ed-a393-a4a85fb04d80.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/d2b65b80-73e4-40ed-a393-a4a85fb04d80-768x768.jpg",
+  "w": 768,
+  "h": 768,
+  "subject": "Marine hamsi (domates soslu, tahtada)",
+  "kind": "product-in-use/plated",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/d2b65b80-73e4-40ed-a393-a4a85fb04d80.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/d2b65b80-73e4-40ed-a393-a4a85fb04d80.jpg",
+  "w": 785,
+  "h": 785,
+  "subject": "Marine hamsi (domates soslu, tahtada)",
+  "kind": "product-in-use/plated",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "785px styled food photo; likely stock"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/da26a04c-c805-45d6-b06a-2849a93de703-1-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Közlenmiş kapya biber (sarımsaklı, fesleğenli)",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/da26a04c-c805-45d6-b06a-2849a93de703-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/da26a04c-c805-45d6-b06a-2849a93de703-1-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Közlenmiş kapya biber (sarımsaklı, fesleğenli)",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/da26a04c-c805-45d6-b06a-2849a93de703-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/da26a04c-c805-45d6-b06a-2849a93de703-1.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Közlenmiş kapya biber (sarımsaklı, fesleğenli)",
+  "kind": "product-in-use/plated",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "400px stock-like plated; also in pics/; byte-identical to pics/da26a04c-c805-45d6-b06a-2849a93de703-1.jpg"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/f-2-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Kaya Koruğu turşusu (kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/f-2.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/f-2-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Kaya Koruğu turşusu (kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/f-2.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/f-2.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Kaya Koruğu turşusu (kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "EgeBeyi logo + \"Kaya Koruğu\" text overlay; 400px"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/f-3-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Bamya turşusu",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/f-3.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/f-3-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Bamya turşusu",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/f-3.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/f-3.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Bamya turşusu",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "400px; kavanoz + tabak; possibly stock; also in pics/; byte-identical to pics/f-3.jpg"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/f-4-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Erik turşusu (kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/f-4.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/f-4-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Erik turşusu (kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/f-4.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/f-4.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Erik turşusu (kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "EgeBeyi logo + \"ERİK\" overlay; 400px (unripe plum/erik)"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/f-5-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Çağla turşusu (badem çağla, kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/f-5.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/f-5-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Çağla turşusu (badem çağla, kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/f-5.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/f-5.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Çağla turşusu (badem çağla, kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "EgeBeyi logo + \"Çağla Badem\" overlay; 400px"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/f-6-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Üzüm koruğu turşusu (kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/f-6.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/f-6-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Üzüm koruğu turşusu (kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/f-6.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/f-6.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Üzüm koruğu turşusu (kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "EgeBeyi logo + \"Üzüm Koruğu\" overlay; 400px"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/fbc0d106-6d7b-43ef-9ec5-a490f04888ca-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Hass avokado (kasada, yarım)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/fbc0d106-6d7b-43ef-9ec5-a490f04888ca.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/fbc0d106-6d7b-43ef-9ec5-a490f04888ca-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Hass avokado (kasada, yarım)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/fbc0d106-6d7b-43ef-9ec5-a490f04888ca.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/fbc0d106-6d7b-43ef-9ec5-a490f04888ca.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Hass avokado (kasada, yarım)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "400px"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/fc54d0fc-3062-43d3-9756-6d140adbc0a4-1-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Deniz Börülcesi turşusu (kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/fc54d0fc-3062-43d3-9756-6d140adbc0a4-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/fc54d0fc-3062-43d3-9756-6d140adbc0a4-1-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Deniz Börülcesi turşusu (kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/fc54d0fc-3062-43d3-9756-6d140adbc0a4-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/fc54d0fc-3062-43d3-9756-6d140adbc0a4-1.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Deniz Börülcesi turşusu (kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "EgeBeyi logo + text overlay; near-duplicate of 20ddde3b"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/greenadaarapsaci-ce3b-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Arapsaçı (dereotu/arapsaçı demeti)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/greenadaarapsaci-ce3b.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/greenadaarapsaci-ce3b-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Arapsaçı (dereotu/arapsaçı demeti)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/greenadaarapsaci-ce3b.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/greenadaarapsaci-ce3b.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Arapsaçı (dereotu/arapsaçı demeti)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "white background; greenada filename -> third-party source, no visible mark; 400px"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/greenadacibes-3c19-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Cibes otu (taze yapraklar)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/greenadacibes-3c19.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/greenadacibes-3c19-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Cibes otu (taze yapraklar)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/greenadacibes-3c19.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/greenadacibes-3c19.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Cibes otu (taze yapraklar)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "white background; FILENAME shows greenada.com origin -> third-party source, no visible mark; low-res 400px"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/greenadaebegumeci-common-370c-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Ebegümeci (taze yaprak)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/greenadaebegumeci-common-370c.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/greenadaebegumeci-common-370c-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Ebegümeci (taze yaprak)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/greenadaebegumeci-common-370c.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/greenadaebegumeci-common-370c.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Ebegümeci (taze yaprak)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "white background; greenada filename -> third-party source, no visible mark; 400px"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/greenadasirken-otu-150-gr-2630-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Sirken otu",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/greenadasirken-otu-150-gr-2630.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/greenadasirken-otu-150-gr-2630-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Sirken otu",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/greenadasirken-otu-150-gr-2630.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/greenadasirken-otu-150-gr-2630.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Sirken otu",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "white background packshot; filename shows greenada origin -> third-party source, no visible mark; 400px"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/greenadaturp-otu-radish-grass-7a42-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Turp otu",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/greenadaturp-otu-radish-grass-7a42.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/greenadaturp-otu-radish-grass-7a42-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Turp otu",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/greenadaturp-otu-radish-grass-7a42.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/greenadaturp-otu-radish-grass-7a42.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Turp otu",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "white background; greenada filename -> third-party source, no visible mark; 400px"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/k1-1-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Kapari meyvesi / kapari (yakın çekim)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/k1-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/k1-1-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Kapari meyvesi / kapari (yakın çekim)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/k1-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/k1-1.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Kapari meyvesi / kapari (yakın çekim)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "400px close-up of caper berries; stock-like"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/k4-300x200.jpg",
+  "w": 300,
+  "h": 200,
+  "subject": "Deniz börülcesi: taze (sol) + turşu (sağ) kolaj",
+  "kind": "collage/branded-cover",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/k4.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/k4-768x512.jpg",
+  "w": 768,
+  "h": 512,
+  "subject": "Deniz börülcesi: taze (sol) + turşu (sağ) kolaj",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/k4.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/k4.jpg",
+  "w": 770,
+  "h": 513,
+  "subject": "Deniz börülcesi: taze (sol) + turşu (sağ) kolaj",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "770x513 collage, no text"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/k6-1-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Deniz fasulyesi (sarımsaklı, hazır)",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/k6-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/k6-1-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Deniz fasulyesi (sarımsaklı, hazır)",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/k6-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/k6-1.jpg",
+  "w": 336,
+  "h": 336,
+  "subject": "Deniz fasulyesi (sarımsaklı, hazır)",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "336px; also in pics/; byte-identical to pics/k6-1.jpg"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/tatli-radika-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Radika (frisée tipi, tatlı radika)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/tatli-radika.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/tatli-radika-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Radika (frisée tipi, tatlı radika)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/tatli-radika.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/tatli-radika.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Radika (frisée tipi, tatlı radika)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "white background; same catalog style as greenada files (source likely greenada) ; 400px"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/y2-1-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Zeytinyağlı enginar kalbi (yarım, tabakta)",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/y2-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/y2-1-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Zeytinyağlı enginar kalbi (yarım, tabakta)",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/y2-1.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/y2-1.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Zeytinyağlı enginar kalbi (yarım, tabakta)",
+  "kind": "product-in-use/plated",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "400px; same as pics/enginar kalbi2.jpg; byte-identical to pics/enginar kalbi2.jpg"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/y2-3-150x150.jpg",
+  "w": 150,
+  "h": 150,
+  "subject": "Enginar çanak/baby enginar (suda, ham kesim)",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/y2-3.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/y2-3-300x300.jpg",
+  "w": 300,
+  "h": 300,
+  "subject": "Enginar çanak/baby enginar (suda, ham kesim)",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "WP auto-resized thumbnail of legacy/wp-content/uploads/2023/06/y2-3.jpg; use the original"
+ },
+ {
+  "file": "legacy/wp-content/uploads/2023/06/y2-3.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Enginar çanak/baby enginar (suda, ham kesim)",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "400px; raw artichokes in water; also in pics/; byte-identical to pics/y2-3.jpg"
+ },
+ {
+  "file": "pics/0a8ca13e89dff91f4174ebb0d7cfae43.jpg",
+  "w": 720,
+  "h": 1280,
+  "subject": "Yerli avokado (istiflenmiş kasalar, depo)",
+  "kind": "product-in-use/plated",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "720x1280 vertical own photo; messy background"
+ },
+ {
+  "file": "pics/1642460903573-3w8a3045-kopya.jpg",
+  "w": 1000,
+  "h": 1000,
+  "subject": "Çanak enginar (ham, kesilmiş, hasır sepetle)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1000px studio shot; stock-like"
+ },
+ {
+  "file": "pics/1_org_zoom.webp",
+  "w": 1200,
+  "h": 1800,
+  "subject": "Altın çilek / physalis (beyaz zemin)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1200x1800 retail catalog shot, lots of white space; likely from a retailer (no visible mark)"
+ },
+ {
+  "file": "pics/28999202-10441a-680x454.jpg",
+  "w": 680,
+  "h": 453,
+  "subject": "Kaya koruğu / yeşil ot demeti (ahşap zeminde)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "680px stock-like (numeric filename from stock/news site); species uncertain (rock samphire-like)"
+ },
+ {
+  "file": "pics/29881414_62924_lezzetli-ve-saglikli-kaba.jpg",
+  "w": 690,
+  "h": 460,
+  "subject": "Dolgulu kabak çiçeği (tabakta)",
+  "kind": "product-in-use/plated",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "690x460 news/recipe site photo (numeric filename); third-party likely"
+ },
+ {
+  "file": "pics/3504ecac-42d6-4f59-ab51-1896dc24e1f2.jpg",
+  "w": 404,
+  "h": 404,
+  "subject": "Deniz börülcesi (taze, yakın çekim)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "404px; duplicate of legacy 3504ecac"
+ },
+ {
+  "file": "pics/35a353bf-1245-419e-ab34-5003e2877e88.jpg",
+  "w": 957,
+  "h": 957,
+  "subject": "Soyulmuş arpacık soğan",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "duplicate of legacy 35a353bf"
+ },
+ {
+  "file": "pics/7710ad573522dc2a5bb627628231a0ad.jpg",
+  "w": 1200,
+  "h": 898,
+  "subject": "Yerli avokado (kasalarda, depo)",
+  "kind": "product-in-use/plated",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "1200x898 own warehouse photo"
+ },
+ {
+  "file": "pics/83a17b91-41a0-4e44-bfec-24567623ff64-1.jpg",
+  "w": 700,
+  "h": 700,
+  "subject": "Marine uskumru füme / füme balık (dereotlu)",
+  "kind": "product-in-use/plated",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "duplicate of legacy 83a17b91"
+ },
+ {
+  "file": "pics/936939.avif",
+  "w": 260,
+  "h": 260,
+  "subject": "Viru sapli enginar kalbi (kavanoz)",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "260x260 only; Viru brand label; AVIF (cannot embed in older browsers)"
+ },
+ {
+  "file": "pics/Avokado(1).png",
+  "w": 1080,
+  "h": 1080,
+  "subject": "Avokado kolajı (EgeBeyi logolu, \"AVOKADO\")",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "1080px; text+logo; same layout as Kapak Fotoğrafları/Avokado.png"
+ },
+ {
+  "file": "pics/Hass Avocado.webp",
+  "w": 768,
+  "h": 768,
+  "subject": "Hass avokado (bütün + yarım, beyaz zemin)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "white background packshot, stock; 768px"
+ },
+ {
+  "file": "pics/IMG_20240306_132830.jpg",
+  "w": 1856,
+  "h": 1856,
+  "subject": "Zeytinyağlı enginar (yeşil, limonlu, kaselerde)",
+  "kind": "product-in-use/plated",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "1856px; stock-like plated; older-style photo; no mark"
+ },
+ {
+  "file": "pics/Izgara-Zeytin.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Soslu ızgara zeytin",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "duplicate of legacy Izgara-Zeytin.jpg"
+ },
+ {
+  "file": "pics/Jesmond-Fruit-Barn-Golden-Circle-Pineapple.jpg",
+  "w": 900,
+  "h": 602,
+  "subject": "Ananas (yığın)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "retailer name in FILENAME (Jesmond Fruit Barn); no visible mark; third-party source"
+ },
+ {
+  "file": "pics/Kabak Çiçeği.webp",
+  "w": 1638,
+  "h": 2048,
+  "subject": "Kabak çiçeği (plastik kapta, taze)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1638x2048 food-blog style (green sauce bowl in corner); third-party source likely"
+ },
+ {
+  "file": "pics/Kabak çiçeği.jpg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Kabak çiçeği (EgeBeyi sosyal medya tasarımı)",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "text title + logo; white; photo of yellow blossoms; same as images/kabak-cicegi.jpeg; byte-identical to images/kabak-cicegi-branded.jpeg, images/kabak-cicegi.jpeg"
+ },
+ {
+  "file": "pics/Screenshot 2025-11-19 at 16.08.53.png",
+  "w": 930,
+  "h": 1156,
+  "subject": "Enginar kalbi (yarım, baharatlı; ham/marine)",
+  "kind": "screenshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "screenshot crop 930x1156; third-party recipe photo; no visible mark"
+ },
+ {
+  "file": "pics/Screenshot 2026-02-25 at 15.10.19.png",
+  "w": 1214,
+  "h": 1782,
+  "subject": "Deniz börülcesi (demet, beyaz zemin)",
+  "kind": "screenshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "screenshot of cutout; blurry/upscaled 1214x1782; white bg"
+ },
+ {
+  "file": "pics/Untitled.jpg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Yerli olgun avokado (EgeBeyi sosyal medya tasarımı)",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "text title + logo; duplicate of images/yerli-avokado.jpeg & pics/avokado.jpg"
+ },
+ {
+  "file": "pics/altin-cilegin-ilk-kez-duyacaginiz-9-faydasi.webp",
+  "w": 600,
+  "h": 400,
+  "subject": "Altın çilek / physalis (kasede)",
+  "kind": "product-in-use/plated",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "600x400 article stock; no mark"
+ },
+ {
+  "file": "pics/altin-cilek-d6f977.webp",
+  "w": 960,
+  "h": 960,
+  "subject": "Altın çilek / physalis (kesit, kabuklu)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "960px, stock-like; no mark"
+ },
+ {
+  "file": "pics/altin-cilek-tohumu-gooseberry-1.jpg",
+  "w": 1200,
+  "h": 1200,
+  "subject": "Altın çilek / physalis (ahşap üstünde)",
+  "kind": "product-in-use/plated",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1200x1200 high quality stock; no mark"
+ },
+ {
+  "file": "pics/avokado.jpg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Yerli olgun avokado (EgeBeyi sosyal medya tasarımı)",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "duplicate of Untitled.jpg"
+ },
+ {
+  "file": "pics/avokado.webp",
+  "w": 720,
+  "h": 540,
+  "subject": "Hass avokado (gri zeminde, kesit)",
+  "kind": "product-in-use/plated",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "720x540 stock; no mark"
+ },
+ {
+  "file": "pics/avvv.jpg",
+  "w": 572,
+  "h": 1024,
+  "subject": "Avokado (yığın, üstten)",
+  "kind": "product-in-use/plated",
+  "quality": "ok",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "Google Gemini sparkle watermark bottom-right -> AI-generated image"
+ },
+ {
+  "file": "pics/b92dbfe7-e664-4179-b337-601ec20d0c31-1.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Kapari meyvesi turşusu (yarım kesit, saplı)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "duplicate of legacy b92dbfe7"
+ },
+ {
+  "file": "pics/baby enginar 4.webp",
+  "w": 1000,
+  "h": 667,
+  "subject": "Baby enginar kalbi (beyaz zeminde)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1000x667 stock-like packshot; no mark"
+ },
+ {
+  "file": "pics/baby enginar 5.webp",
+  "w": 1000,
+  "h": 1000,
+  "subject": "Baby enginar kalbi (beyaz kasede)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1000x1000 stock packshot; no mark"
+ },
+ {
+  "file": "pics/baby enginar kalbi 3.jpg",
+  "w": 600,
+  "h": 600,
+  "subject": "Baby enginar kalbi (5 adet, beyaz zemin)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "600x600 stock packshot; no mark"
+ },
+ {
+  "file": "pics/baby enginar kalbi.jpg",
+  "w": 770,
+  "h": 770,
+  "subject": "Baby enginar kalbi (kaselerde, kekik)",
+  "kind": "product-in-use/plated",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "770x770 stock-like; no mark"
+ },
+ {
+  "file": "pics/baby-enginar kalbi.jpg",
+  "w": 1160,
+  "h": 800,
+  "subject": "Haşlanmış enginar kalbi yarımlar (frenk soğanlı, sos)",
+  "kind": "product-in-use/plated",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1160x800 recipe-blog style food photo; likely third-party; no visible mark"
+ },
+ {
+  "file": "pics/bbbf0c_145c1f72c1704d4ca7b82240d875db97~mv2.avif",
+  "w": 518,
+  "h": 576,
+  "subject": "Deniz börülcesi (tabakta, zeytinyağı kaselı)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "518x576 AVIF; wix-hosted stock-like image (name pattern ~mv2); no mark"
+ },
+ {
+  "file": "pics/canak1_52113ab2-8d75-40e9-b497-e02de79bf4dd.webp",
+  "w": 600,
+  "h": 800,
+  "subject": "Çanak enginar (suda, ham)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "600x800 top-down artichoke bottoms in water; same as bottom-right tile of Enginar cover"
+ },
+ {
+  "file": "pics/da26a04c-c805-45d6-b06a-2849a93de703-1.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Közlenmiş kapya biber (sarımsaklı, fesleğenli)",
+  "kind": "product-in-use/plated",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "duplicate of legacy da26a04c"
+ },
+ {
+  "file": "pics/deniz b.webp",
+  "w": 740,
+  "h": 416,
+  "subject": "Deniz börülcesi (taze, kasede)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "740x416 stock-like bowl shot"
+ },
+ {
+  "file": "pics/deniz börülcesi.jpg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Deniz börülcesi (taze demet, EgeBeyi sosyal medya tasarımı)",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "text title + logo; white; photo low-res enlarged; same as images/deniz-borulcesi.jpeg; byte-identical to images/deniz-borulcesi-branded.jpeg, images/deniz-borulcesi.jpeg"
+ },
+ {
+  "file": "pics/deniz-borulcesi-mezesi-resimli-yemek-tarifi(14).jpg",
+  "w": 650,
+  "h": 487,
+  "subject": "Deniz börülcesi mezesi (pişmiş, tabakta)",
+  "kind": "product-in-use/plated",
+  "quality": "ok",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "650x487; recipe site photo with faint diagonal watermark text near center (likely yemek recipe site) -> avoid"
+ },
+ {
+  "file": "pics/engg.jpg",
+  "w": 1024,
+  "h": 905,
+  "subject": "Baby enginar kalbi yığını (makro)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "Google Gemini sparkle watermark bottom-right -> AI-generated; 1024x905"
+ },
+ {
+  "file": "pics/engg2.jpg",
+  "w": 1024,
+  "h": 1024,
+  "subject": "Baby enginar kalbi yığını (kavanoz içeriği, makro)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "Google Gemini sparkle watermark bottom-right -> AI-generated; 1024px"
+ },
+ {
+  "file": "pics/enginar kalbi.jpg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Izgara enginar kalbi (kalp çerçeveli, EgeBeyi sosyal medya tasarımı)",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "text \"Enginar Kalbi\" + EgeBeyi logo; photo grilled artichoke (yerli/ithal ayrımı belirsiz); byte-identical to images/cibes-otu-branded.jpeg, images/enginar-kalbi-izgara.jpeg"
+ },
+ {
+  "file": "pics/enginar kalbi2.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Zeytinyağlı enginar kalbi (yarım, tabakta)",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "400px; same as y2-1.jpg crop; byte-identical to legacy/wp-content/uploads/2023/06/y2-1.jpg"
+ },
+ {
+  "file": "pics/enginar kalbi3.jpg",
+  "w": 2048,
+  "h": 1364,
+  "subject": "Izgara/kızarmış baby enginar + dip sos (limonlu)",
+  "kind": "product-in-use/plated",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "2048px recipe-blog style photo (likely third-party recipe site); no visible mark"
+ },
+ {
+  "file": "pics/f-3.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Bamya turşusu",
+  "kind": "product-packshot",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "duplicate of legacy f-3.jpg"
+ },
+ {
+  "file": "pics/image_1080.webp",
+  "w": 1200,
+  "h": 800,
+  "subject": "Sapli enginar kalbi (zeytinyağında, mavi tabakta)",
+  "kind": "product-in-use/plated",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1200x800 stock-like; good Roma tipi look; no visible mark"
+ },
+ {
+  "file": "pics/img-9264.webp",
+  "w": 1280,
+  "h": 960,
+  "subject": "Kaya koruğu turşusu (siyah tabakta, makro)",
+  "kind": "product-in-use/plated",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "1280x960 high quality; no mark; matches pickled flat-leaf look"
+ },
+ {
+  "file": "pics/k6-1.jpg",
+  "w": 336,
+  "h": 336,
+  "subject": "Deniz fasulyesi (sarımsaklı, hazır)",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "duplicate of legacy k6-1.jpg"
+ },
+ {
+  "file": "pics/kabb.jpg",
+  "w": 825,
+  "h": 1024,
+  "subject": "Kabak çiçeği (yığın, üstten)",
+  "kind": "product-in-use/plated",
+  "quality": "high",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "Google Gemini sparkle watermark bottom-right -> AI-generated; 825x1024"
+ },
+ {
+  "file": "pics/kaya_korugu_bitkisinin_faydalari_nelerdir_1644055472_1342.webp",
+  "w": 1280,
+  "h": 720,
+  "subject": "Kaya koruğu: taze (sol) + kavanozda (sağ) kolaj",
+  "kind": "collage/branded-cover",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "1280x720 news-site collage; third-party source; no visible mark"
+ },
+ {
+  "file": "pics/koy-yakasi-enginar-mg-9203.webp",
+  "w": 1280,
+  "h": 1134,
+  "subject": "Enginar kalbi (kavanoz + kase) - Köy Yakası markalı",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "Third-party brand \"Köy Yakası Doğal Gıda Ürünleri\", koyyakasi.com + @koyyakasi + phone 0532 726 22 08 on label, faint watermark text; transparent bg -> DO NOT reuse"
+ },
+ {
+  "file": "pics/saplı enginar kalbi roma tipi.jpg",
+  "w": 1152,
+  "h": 2048,
+  "subject": "Ristoris Roma tipi sapli enginar kalbi (2900gr kavanoz)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "Ristoris brand label visible on jar; white social-story layout with EgeBeyi logo + title text; same as images/ristoris-enginar.jpeg; byte-identical to images/ristoris-enginar-branded.jpeg, images/ristoris-enginar.jpeg"
+ },
+ {
+  "file": "pics/viru-sapli-enginar-kalbi-roma-tipi-180-8-a89d.jpg",
+  "w": 500,
+  "h": 476,
+  "subject": "Sapli enginar kalbi roma tipi (kesit, beyaz zemin)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "500x476; Viru catalog crop, no visible logo; third-party catalog source"
+ },
+ {
+  "file": "pics/what-do-sea-beans-taste-like-1696967088.jpg",
+  "w": 780,
+  "h": 438,
+  "subject": "Deniz börülcesi (taze, makro)",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "780x438 article stock (Tasting Table-style filename); third-party; no visible mark"
+ },
+ {
+  "file": "pics/y2-3.jpg",
+  "w": 400,
+  "h": 400,
+  "subject": "Enginar çanak (suda, ham kesim)",
+  "kind": "product-in-use/plated",
+  "quality": "low",
+  "has_text_or_watermark": "none",
+  "notes": "400px; duplicate of legacy y2-3.jpg"
+ },
+ {
+  "file": "pics/zeytinyagli-enginar-kalbi-tarifi-e06b6ebf-dd45-46fe-8eb9-f9c992bf709b.jpg",
+  "w": 800,
+  "h": 600,
+  "subject": "Zeytinyağlı enginar kalbi (zeytinyağı dökülüyor)",
+  "kind": "product-in-use/plated",
+  "quality": "high",
+  "has_text_or_watermark": "none",
+  "notes": "800x600; looks AI-generated/stock; no visible mark (recipe site filename)"
+ },
+ {
+  "file": "pics/ÇANAK ENGİNAR(2).png",
+  "w": 1080,
+  "h": 1350,
+  "subject": "Ürün grupları listesi grafiği (avokado, enginar, ege otları)",
+  "kind": "text-graphic",
+  "quality": "ok",
+  "has_text_or_watermark": "egebeyi-branding",
+  "notes": "1080x1350 text graphic with EgeBeyi logo; useful as copy source only"
+ },
+ {
+  "file": "pics/Çanak enginar.jpg",
+  "w": 1033,
+  "h": 1453,
+  "subject": "Çanak enginar (dilimli, kavanozda; yeşil kareli kapak)",
+  "kind": "product-packshot",
+  "quality": "ok",
+  "has_text_or_watermark": "none",
+  "notes": "1033x1453 own-looking jar photo on white; possible duplicate of images/tursu-kavanoz.jpeg"
+ },
+ {
+  "file": "pics/çanak enginar.jpeg",
+  "w": 1000,
+  "h": 1500,
+  "subject": "Çanak enginar (2 kavanoz) - Urla Yeşil Ürünler markalı",
+  "kind": "product-packshot",
+  "quality": "high",
+  "has_text_or_watermark": "third-party-watermark/brand",
+  "notes": "Third-party label \"Urla Yeşil Ürünler %100 doğal\" on jar -> do not reuse"
+ }
+]
